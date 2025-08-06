@@ -4,9 +4,6 @@
 
 #### THIS IS A DRAFT/PLACEHOLDER WHICH WILL BE FINALIZED BY AUG. 17
 
-
-*We will cover Conservation Laws and Newtonian Mechanics, in that order*
-
 *Fall 2025, Deep Springs College, [Prof. Brian Hill](https://brianhill.github.io)*
 
 ## Syllabus
@@ -27,12 +24,13 @@ Detailed daily schedules will be kept retrospectively:
 
 ## Text and Unit Outline
 
-There is an endless supply of textbooks with roots going so far back (e.g., to Sears, [*Mechanics, Heat and Sound*](https://archive.org/details/mechanicsheatsou0000unse)) that it is hard
-to think of even their most recent incarnations as modern. A completely separate course called &ldquo;Modern Physics&rdquo; is usually taught to physics sophomores to complement the traditional treatments of 17th, 18th, and 19th century physics. This sequence is time-tested, internationally-recognized, and ubiquitous, but we will be going a slightly different direction.
+There is an endless supply of textbooks with roots going so far back (e.g., Sears, *Principles of Physics,* 1944) that it is hard to think of even their most recent incarnations as modern. The traditional sequence is thoroughly-tested and internationally-recognized, but we will be going a slightly different direction.
 
-To have the modern approach that I advertised above and in the course proposal, we will use two volumes from a relatively new and ambitious textbook series:
+To have the modern approach that I advertised above and in the course proposal, we will use two volumes from a new and ambitious textbook series created by Thomas Moore at Pomona College:
 
 * [*Six Ideas that Shaped Physics*, 4th Edition, Volumes C and N](http://www.physics.pomona.edu/sixideas/) for Terms 2 and 3, respectively
+
+By the end of the fall semester, we will have covered the same material as is usually covered in the first semester of a many-semester physics sequence, but with a different organization and emphasis.
 
 ## Grading and Homework
 
