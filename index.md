@@ -1,4 +1,4 @@
-# Conservation Laws and Newtonian Mechanics &mdash; Preliminary Syllabus
+# Conservation Laws and Newtonian Mechanics
 
 *Short Course Title: Classical Mechanics*
 
