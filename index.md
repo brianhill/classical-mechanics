@@ -4,6 +4,10 @@
 
 *Fall 2025, Deep Springs College, [Prof. Brian Hill](https://brianhill.github.io)*
 
+## Preliminary Syllabus
+
+A [PDF of the Preliminary Syllabus](./ClassicalMechanicsPreliminarySyllabus.pdf) (containing essentially the same information as is on these web pages, but in a format suitable for distribution to the registrars of other colleges and universities).
+
 ## Overview
 
 Our essential goal in one semester will be to understand Newtonian physics, but with a modern perspective. The course will use calculus (mostly derivative calculus but also some integral calculus for mass distributions), but I will provide reminders for the calculus results as we use them, so don't be disuaded if your calculus is rusty.
@@ -11,6 +15,12 @@ Our essential goal in one semester will be to understand Newtonian physics, but 
 For Part I of this course to be a transferrable, and to be a thorough preparation for what might be your second semester of college-level introductory physics elsewhere, we cannot completely depart from what is standard. On the other hand, we certainly don’t have to mimic any particular methodology for covering the standard material, and we will be taking a modern approach.
 
 We will begin the semester with a study of the major conservation laws. These can be viewed as a consequence of Newtonian mechanics, but as physics progressed into the 20th century, and relativity and quantum mechanics theories were developed, the conservation laws survived fully intact even as the limits of Newtonian mechanics were discovered. It therefore makes sense to begin with the conservation laws and then in the second half of the semester, we will see Newtonian mechanics as the first example of a theory that obeys the conservation laws.
+
+## Daily Schedules
+
+Detailed daily schedules will be kept retrospectively:
+
+* [Daily Schedule-Term 2](https://brianhill.github.io/physics/daily_schedule-term_2.html)
 
 ## Text and Unit Outline
 
