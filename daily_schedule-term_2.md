@@ -7,7 +7,7 @@ Course [home page](./)
 ### Week 1 &mdash; Particles, Interactions, Momentum, &mdash; Coordinate Systems and Vectors
 
 * Monday, Sept. 1 &mdash; Study all of Chapter C2
-* Thursday, Sept. 4 &mdash; Study all of Chatper C3 &mdsah; Problem Set 1: C2B.4, C2B.11, C2M.2, C2M.6, C2R.1
+* Thursday, Sept. 4 &mdash; Study all of Chatper C3 &mdash; Problem Set 1: C2B.4, C2B.11, C2M.2, C2M.6, C2R.1
 
 ### Week 2 &mdash; Center of Mass
 
@@ -23,7 +23,7 @@ Course [home page](./)
     * C4.3 - Sasha - this section contains an important derivation, which you should probably reproduce for everyone
     * C4.4 - Grace - inertial frames - there is a lovely discussion by Galileo on this - Google for Galileo, butterflies, and fish, and you will come upon the discussion, published in *Dialogue Concerning the Two Chief World Systems* - original in Italian
     * C4.5 - Hannah - freely floating frames - such as a falling elevator
-    * C4.6 - Luca - When and why can we neglect or presume something about the interaction with Earth, an object whose mass is about 6x10<sup>24</sup>kg, and which thereby drarfs any other object whose mass we might interact with? - Is the Earth receiving any impulse when its gravity is imparting impulse on something, such as a dropped brick?
+    * C4.6 - Luca - When and why can we neglect or presume something about the interaction with Earth, an object whose mass is about 6x10<sup>24</sup>kg, and which thereby dwarfs any other object whose mass we might interact with? - Is the Earth receiving any impulse when its gravity is imparting impulse on something, such as a dropped brick?
 
 * Thursday, Sept. 11
 
