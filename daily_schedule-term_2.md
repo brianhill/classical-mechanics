@@ -6,12 +6,12 @@ Course [home page](./)
 
 ### Week 1 &mdash; Particles, Interactions, Momentum, &mdash; Coordinate Systems and Vectors
 
-* Monday, Sept. 1 &mdash; Study all of Chapter C2
-* Thursday, Sept. 4 &mdash; Study all of Chatper C3 &mdash; Problem Set 1: C2B.4, C2B.11, C2M.2, C2M.6, C2R.1
+* Monday, Sept. 1 &mdash; Study Chapter C2
+* Thursday, Sept. 4 &mdash; Study Chapter C3 &mdash; Problem Set 1: C2B.4, C2B.11, C2M.2, C2M.6, C2R.1
 
 ### Week 2 &mdash; Center of Mass
 
-* Monday, Sept. 8 &mdash; Study all of Chapter C4 &mdash; Problem Set 2:
+* Monday, Sept. 8 &mdash; Study Chapter C4 &mdash; Problem Set 2:
     * C3M.2 (making a nice diagram with each of the small squares on the engineering paper representing 0.01Tm is a good way to start)
 	* C3M.3 (Mauna Kea on the horizon)
 	* C3M.5 (good 2-D trig practice - make sure whatever calculator you use is in degrees mode)
