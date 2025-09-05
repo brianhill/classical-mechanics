@@ -14,7 +14,7 @@ Course [home page](./)
 * Monday, Sept. 8 &mdash; Study all of Chapter C4 &mdash; Problem Set 2:
     * C3M.2 (making a nice diagram with each of the small squares on the engineering paper representing 0.01Tm is a good way to start)
 	* C3M.3 (Mauna Kea on the horizon)
-	* C3M.5 (good 2-D trig practice - make sure wahtever calculator you use is in degrees mode)
+	* C3M.5 (good 2-D trig practice - make sure whatever calculator you use is in degrees mode)
 	* C3D.1 (properties of vector addition)
 	* C3R.2 (good 3-D trig practice that Hannah did most of in class - and again, make sure your calculator is in degrees mode if you are answering in degrees)
 
