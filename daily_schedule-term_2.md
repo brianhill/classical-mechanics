@@ -1,5 +1,7 @@
 # Classical Mechanics
 
+Course [home page](./)
+
 ## Daily Schedule - Term 2
 
 ### Week 1 &mdash; Particles, Interactions, Momentum, &mdash; Coordinate Systems and Vectors
@@ -22,7 +24,7 @@
 * Thursday, Sept. 11 &mdash; Finish Chapter C4, and additionally, let's go back and pick up the prefatory material in Chapter C1 &mdash; Specifically, C1.4, C1.5, and C1.6 contain standard tools (units, derived units, unit prefixes, unit conversions, and dimensional analysis) that are simple, and that you want to get to the point that they are merely clerical and automatic &mdash; Problem Set 3:
     1. C1M.3 &mdash; I love this particular problem because it builds on a famous estimate of the size of the Earth done by Eratosthenes which is described in Section C1.3 and Example C1.1
     2. C1D.1 parts (a) to (c) &mdash; For part (c) you will need a calculator in radians mode and you'll need to do some experimentation &mdash; Instead of part (d) make a table of approximate values and exact values that tells you how good the approximation is for 3&deg;, 10&deg; and 30&deg; &mdash; You will need to be careful with conversions between radians and degrees and you should probably make both of these columns in your table
-	3. C1R.1 &mdash; Estimating the total mass of the Earth's atmosphere (What fun! I have never done this.) &mdash; You will need to be clear about the units of mass, pressure, and force, and certainly *g*=9.8m/s<sup>2</sup> is going to enter into it, because there would be no atmospheric pressure at all if there were no gravitational pull on the atmosphere
+	3. C1R.1 &mdash; Estimating the total mass of the Earth's atmosphere &mdash; What fun! I have never done this calculatation. &mdash; You will need to be clear about the units of mass and pressure (which is force per unit area), and certainly *g*=9.8m/s<sup>2</sup> is going to enter into it, because no matter how much atmospheric mass is hanging over our heads, there would be no atmospheric pressure at all if there were no gravitational pull on all that mass
 
 * Presentations for Sept. 11 on Chapter C4 most of which are deferred from Monday's class (choose a problem or a derivation that illustrates the material of the following sections):
     * C4.3 - Sasha - this section contains a critical derivation, which you should reproduce for everyone
