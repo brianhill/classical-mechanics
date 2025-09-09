@@ -9,7 +9,7 @@ Course [home page](./)
 * Monday, Sept. 1 &mdash; Study Chapter C2
 * Thursday, Sept. 4 &mdash; Study Chapter C3 &mdash; Problem Set 1: C2B.4, C2B.11, C2M.2, C2M.6, C2R.1
 
-### Week 2 &mdash; Center of Mass
+### Week 2 &mdash; Center of Mass &mdash; Units and Dimensional Analysis
 
 * Monday, Sept. 8 &mdash; Start Chapter C4 &mdash; Problem Set 2:
     1. C3M.2 (making a nice diagram with each of the small squares on the engineering paper representing 0.01Tm is a good way to start)
