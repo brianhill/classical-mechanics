@@ -11,30 +11,23 @@ Course [home page](./)
 
 ### Week 2 &mdash; Center of Mass &mdash; Units and Dimensional Analysis
 
-* Monday, Sept. 8 &mdash; Start Chapter C4 &mdash; Problem Set 2:
-    1. C3M.2 (making a nice diagram with each of the small squares on the engineering paper representing 0.01Tm is a good way to start)
-	2. C3M.3 (Mauna Kea on the horizon)
-	3. C3M.5 (good 2-D trig practice - make sure whatever calculator you use is in degrees mode)
-	4. C3D.1 (properties of vector addition)
-	5. C3R.2 (good 3-D trig practice that Hannah did most of in class - and again, make sure your calculator is in degrees mode whenever you are answering in degrees)
-	
-* Presentation for September 8:
-    * C4.2 - Sam - the definition of Center of Mass, define it, and then apply it - Sam chose a 1-dimensional example with two masses arranged along the x-axis
-	
-* Thursday, Sept. 11 &mdash; Finish Chapter C4, and additionally, let's go back and pick up the prefatory material in Chapter C1 &mdash; Specifically, C1.4, C1.5, and C1.6 contain standard tools (units, derived units, unit prefixes, unit conversions, and dimensional analysis) that are simple, and that you want to get to the point that they are merely clerical and automatic &mdash; Problem Set 3:
-    1. C1M.3 &mdash; I love this particular problem because it builds on a famous estimate of the size of the Earth done by Eratosthenes which is described in Section C1.3 and Example C1.1
-    2. C1D.1 parts (a) to (c) &mdash; For part (c) you will need a calculator in radians mode and you'll need to do some experimentation &mdash; Instead of part (d) make a table of approximate values and exact values that tells you how good the approximation is for 3&deg;, 10&deg; and 30&deg; &mdash; You will need to be careful with conversions between radians and degrees and you should probably make both of these columns in your table
-	3. C1R.1 &mdash; Estimating the total mass of the Earth's atmosphere &mdash; What fun! I have never done this calculatation. &mdash; You will need to be clear about the units of mass and pressure (which is force per unit area), and certainly *g*=9.8m/s<sup>2</sup> is going to enter into it, because no matter how much atmospheric mass is hanging over our heads, there would be no atmospheric pressure at all if there were no gravitational pull on all that mass
+* Monday, Sept. 8 &mdash; Start Chapter C4 &mdash; Problem Set 2: 1. C3M.2; 2. C3M.3; 3. C3M.5; 4. C3D.1; 5. C3R.2
+* Thursday, Sept. 11 &mdash; Finish Chapter C4, and additionally, let's go back and pick up the prefatory material in Chapter C1 &mdash; Problem Set 3: 1. C1M.3; 2. C1D.1; 3. C1R.1
 
-* Presentations for Sept. 11 on Chapter C4 most of which are deferred from Monday's class (choose a problem or a derivation that illustrates the material of the following sections):
-    * C4.3 - Sasha - this section contains a critical derivation, which you should reproduce for everyone
-    * C4.4 - Grace - inertial frames - there is a lovely discussion by Galileo on this - Google for Galileo, butterflies, and fish, and you will come upon the discussion, published in *Dialogue Concerning the Two Chief World Systems* - original in Italian
-    * C4.5 - Hannah - freely floating frames - such as a falling elevator
-    * C4.6 - Luca - When and why can we neglect or presume something about the interaction with Earth, an object whose mass is about 6x10<sup>24</sup>kg, and which thereby dwarfs any other object whose mass we might interact with? - Is the Earth receiving any impulse when its gravity is imparting impulse on something, such as a dropped brick?
+### Week 3 &mdash; Collision Problems in Full Generality
 
-### Week 3
+* Monday, Sept. 15 &mdash; Chapter C5 &mdash; Problem Set 4:
+    1. C4B.3 - Sun-Jupiter center of mass
+	2. My own problem, that I outlined the beginnings of on the board on Sept. 11. Here is the rest.... (a) Jupiter goes around the Sun once every 12 years. It is 780 million kilometers from the Sun. Use these two facts to calculate Jupiter's orbital speed (convenient units for your answer would be km/s). (b) Sketch a "top view" of the solar system and have Jupiter initially going in the +y direction at the right of your sketch with the Sun in the center. 6 years later Jupiter will be on the other side of the Sun going in the -y direction. Using the speed you calculated in (a) and the mass of Jupiter as 1.9x10<sup>27</sup>kg, what is the magnitude of the total impulse Jupiter must have received during the 6 years? (c) In those 6 years, the Sun must have received an equal and opposite impulse (since everything else in the solar system is pretty negligible). Using the result of (b) and the mass of the Sun as 2.0x10<sup>30</sup>kg, what is the magnitude of the change in velocity that the Sun has undergone? (d) Add an arrow on your sketch (its size is not important, but its direction is) that shows what direction the Sun's change in velocity points.
+	3. C4M.4 - This is an improved calculation of Example C4.2.
+	4. C4R.3 - Draw pictures of the canoe and canoeist relative to the dock, before and after the crawl toward the paddle, and also, define symbols to get a symbolic answer before you plug in the specific values given in the problem.
+* Presentations for Sept. 15:
+    * Sam - C5M.1(a) - collaborate with Sasha enough to insure a smooth handoff
+    * Sasha - C5M.1(b) - collaborate with Sam enough to insure a smooth handoff
+    * Grace - C5M.3(a) - collaborate with Luca enough to insure a smooth handoff
+	* Luca - C5M.3(b) - collaborate with Grace enough to insure a smooth handoff
+	* Brian - If time, I will do a rocket propellant problem
 
-* Monday, Sept. 15
 * Thursday, Sept. 18
 
 ### Week 4
