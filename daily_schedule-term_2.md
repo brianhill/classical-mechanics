@@ -16,7 +16,7 @@ Course [home page](./)
 
 ### Week 3 &mdash; Collision Problems in Full Generality
 
-* Monday, Sept. 15 &mdash; Chapter C5 &mdash; Problem Set 4:
+* Monday, Sept. 15 &mdash; Study Chapter C5 &mdash; For Problem Set 4:
     1. C4B.3 - Sun-Jupiter center of mass
 	2. My own problem, that I outlined the beginnings of on the board on Sept. 11. Here is the rest.... (a) Jupiter goes around the Sun once every 12 years. It is 780 million kilometers from the Sun. Use these two facts to calculate Jupiter's orbital speed (convenient units for your answer would be km/s). (b) Sketch a "top view" of the solar system and have Jupiter initially going in the +y direction at the right of your sketch with the Sun in the center. 6 years later Jupiter will be on the other side of the Sun going in the -y direction. Using the speed you calculated in (a) and the mass of Jupiter as 1.9x10<sup>27</sup>kg, what is the magnitude of the total impulse Jupiter must have received during the 6 years? (c) In those 6 years, the Sun must have received an equal and opposite impulse (since everything else in the solar system is pretty negligible). Using the result of (b) and the mass of the Sun as 2.0x10<sup>30</sup>kg, what is the magnitude of the change in velocity that the Sun has undergone? (d) Add an arrow on your sketch (its size is not important, but its direction is) that shows what direction the Sun's change in velocity points.
 	3. C4M.4 - This is an improved calculation of Example C4.2.
