@@ -16,23 +16,15 @@ Course [home page](./)
 
 ### Week 3 &mdash; Collision Problems in Full Generality
 
-* Monday, Sept. 15 &mdash; Study Chapter C5 &mdash; For Problem Set 4:
-    1. C4B.3 - Sun-Jupiter center of mass
-	2. My own problem, that I outlined the beginnings of on the board on Sept. 11. Here is the rest.... (a) Jupiter goes around the Sun once every 12 years. It is 780 million kilometers from the Sun. Use these two facts to calculate Jupiter's orbital speed (convenient units for your answer would be km/s). (b) Sketch a "top view" of the solar system and have Jupiter initially going in the +y direction at the right of your sketch with the Sun in the center. 6 years later Jupiter will be on the other side of the Sun going in the -y direction. Using the speed you calculated in (a) and the mass of Jupiter as 1.9x10<sup>27</sup>kg, what is the magnitude of the total impulse Jupiter must have received during the 6 years? (c) In those 6 years, the Sun must have received an equal and opposite impulse (since everything else in the solar system is pretty negligible). Using the result of (b) and the mass of the Sun as 2.0x10<sup>30</sup>kg, what is the magnitude of the change in velocity that the Sun has undergone? (d) Add an arrow on your sketch (its size is not important, but its direction is) that shows what direction the Sun's change in velocity points.
-	3. C4M.4 - This is an improved calculation of Example C4.2.
-	4. C4R.3 - Draw pictures of the canoe and canoeist relative to the dock, before and after the crawl toward the paddle, and also, define symbols to get a symbolic answer before you plug in the specific values given in the problem.
-* Presentations for Sept. 15:
-    * Sam - C5M.1(a) - collaborate with Sasha enough to insure a smooth handoff
-    * Sasha - C5M.1(b) - collaborate with Sam enough to insure a smooth handoff
-    * Grace - C5M.3(a) - collaborate with Luca enough to insure a smooth handoff
-	* Luca - C5M.3(b) - collaborate with Grace enough to insure a smooth handoff
-	* Brian - If time, I will do a rocket propellant problem
+* Monday, Sept. 15 &mdash; Study Chapter C5 &mdash; Problem Set 4: 1. C4B.3 - Sun-Jupiter center of mass; 2. My own Sun-Jupiter impulse problem; 3. C4M.4; 4. C4R.3
+* Thursday, Sept. 18 &mdash; Study Chapter C6 &mdash; Problem Set 5: 1. C5M.3; 2. My own Falcon 9 second stage problem set-up; 3. C5M.6; 4. C6T.5; 5. C6B.2
 
-* Thursday, Sept. 18
+### Week 4 &mdash; Angular Momentum, Twirl, and Torque
 
-### Week 4
-
-* Monday, Sept. 22
+* Monday, Sept. 22 &mdash; Study Chapter C7 &mdash; Problem Set 6: 1. C6B.4; 2. C6B.6; 3. C6M.1; 4. C6M.2; 5. C6M.3 &mdash; Presentations for Monday:
+    * Grace: Demonstrate the theory and practice of Figure 6.8. I have a gyroscope you can use.
+	* Sam: The &alpha;=1/2 result in Figure 6.7. I will help you with the integral setup.
+	* Sasha: Would you find presenting C6M.7 cool? Maybe we can even find a galaxy collision that is believed to be exhibiting this?
 * Thursday, Sept. 25
 
 ### Week 5
