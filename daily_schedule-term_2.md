@@ -4,7 +4,7 @@ Course [home page](./)
 
 ## Daily Schedule - Term 2
 
-### Week 1 &mdash; Particles, Interactions, Momentum, &mdash; Coordinate Systems and Vectors
+### Week 1 &mdash; Particles, Interactions, Momentum &mdash; Coordinate Systems and Vectors
 
 * Monday, Sept. 1 &mdash; Study Chapter C2
 * Thursday, Sept. 4 &mdash; Study Chapter C3 &mdash; Problem Set 1: C2B.4, C2B.11, C2M.2, C2M.6, C2R.1
@@ -19,17 +19,17 @@ Course [home page](./)
 * Monday, Sept. 15 &mdash; Study Chapter C5 &mdash; Problem Set 4: 1. C4B.3 - Sun-Jupiter center of mass; 2. My own Sun-Jupiter impulse problem; 3. C4M.4; 4. C4R.3
 * Thursday, Sept. 18 &mdash; Study Chapter C6 &mdash; Problem Set 5: 1. C5M.3; 2. My own Falcon 9 second stage problem set-up; 3. C5M.6; 4. C6T.5; 5. C6B.2
 
-### Week 4 &mdash; Angular Momentum, Twirl, and Torque
+### Week 4 &mdash; Angular Momentum, Twirl, Torque, and the Cross Product
 
 * Monday, Sept. 22 &mdash; Study Chapter C7 &mdash; Problem Set 6: 1. C6B.4; 2. C6B.6; 3. C6M.1; 4. C6M.2; 5. C6M.3 &mdash; Presentations for Monday:
     * Grace: Demonstrate the theory and practice of Figure 6.8. I have a gyroscope you can use.
 	* Sam: The &alpha;=1/2 result in Figure 6.7. I will help you with the integral setup.
 	* Sasha: Would you find presenting C6M.7 cool? Maybe we can even find a galaxy collision that is believed to be exhibiting this?
-* Thursday, Sept. 25
+* Thursday, Sept. 25 &mdash; No new chapter to study &mdash; Problem Set 7: 1. C7B.8; 2. C7M.3; 3. C7M.7 (be careful not to simply set torque=force, see Equation C7.21); 4. C7D.3 (proof of the component expression for the cross-product) &mdash; No presentations for Thursday, but INSTEAD come in with questions about C1-C7 &mdash; If there are no questions, we will get started on C8 (which is conservation of energy and which is not on Monday's exam)
 
-### Week 5
+### Week 5 &mdash; Exam 1 &mdash; Conservation of Energy
 
-* Monday, Sept. 29
+* Monday, Sept. 29 &mdash; First of three exams &mdash; This exam covers Chapters C1-C7
 * Thursday, Oct. 2
 
 ### Week 6
