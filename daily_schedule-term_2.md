@@ -29,7 +29,7 @@ Course [home page](./)
 
 ### Week 5 &mdash; Exam 1 &mdash; Conservation of Energy
 
-* Monday, Sept. 29 &mdash; First of three exams &mdash; This exam covers Chapters C1-C7
+* Monday, Sept. 29 &mdash; [Exam 1](./exams/Exam1.nb.pdf) (first of three exams) &mdash; This exam covers Chapters C1-C7
 * Thursday, Oct. 2
 
 ### Week 6
