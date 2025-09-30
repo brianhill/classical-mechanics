@@ -25,14 +25,18 @@ Course [home page](./)
     * Grace: Demonstrate the theory and practice of Figure 6.8. I have a gyroscope you can use.
 	* Sam: The &alpha;=1/2 result in Figure 6.7. I will help you with the integral setup.
 	* Sasha: Would you find presenting C6M.7 cool? Maybe we can even find a galaxy collision that is believed to be exhibiting this?
-* Thursday, Sept. 25 &mdash; No new chapter to study &mdash; Problem Set 7: 1. C7B.8; 2. C7M.3; 3. C7M.7 (be careful not to simply set torque=force, see Equation C7.21); 4. C7D.3 (proof of the component expression for the cross-product) &mdash; No presentations for Thursday, but INSTEAD come in with questions about C1-C7 &mdash; If there are no questions, we will get started on C8 (which is conservation of energy and which is not on Monday's exam)
+* Thursday, Sept. 25 &mdash; No new chapter to study &mdash; Problem Set 7: 1. C7B.8; 2. C7M.3; 3. C7M.7 (be careful not to simply set torque=force, see Equation C7.21); 4. C7D.3 (proof of the component expression for the cross-product) &mdash; Come in with questions about C1-C7
 
-### Week 5 &mdash; Exam 1 &mdash; Conservation of Energy
+### Week 5 &mdash; Exam 1 &mdash; Conservation of Energy &mdash; Kinetic Energy &mdash; Potential Energy
 
-* Monday, Sept. 29 &mdash; [Exam 1](./exams/Exam1.nb.pdf) (first of three exams) &mdash; This exam covers Chapters C1-C7
-* Thursday, Oct. 2
+* Monday, Sept. 29 &mdash; [Exam 1](./exams/Exam1.nb.pdf) covering Chapters C1-C7
+* Thursday, Oct. 2 &mdash; Study Chapter C8 &mdash; Problem Set 8 (just three problems, but each of them is challenging, so you might want to warm yourself up by doing some of the odd C8B problems that have answers at the end of the chapter): 1. C8M.3 (you are meant to completely ignore the asteroid's friction with the Earth's atmosphere); 2. C8M.11 (you are meant to treat the Helium nucleus as a point); 3. C8M.7 (it is probably unrealistic to neglect air friction, but again Moore is having you neglect it, because including air friction is hard) &mdash; Presentations for Thursday:
+	* Sasha: Carefully convince everyone of the approximations that get us from the relativistic expression *E = m &gamma;* to the nonrelativistic expression *K = m v<sup>2</sup> / 2*
+	* Sam: Carefully convince everyone of the approximations on the bottom half of p. 123
+	* Grace: Present the derivation in C8D.1
+	* Brian: Introduce the graphs in C9
 
-### Week 6
+### Week 6 &mdash; Potential Energy Graphs &mdash; The Dot Product of Two Vectors &mdash; Work
 
 * Monday, Oct. 6
 * Thursday, Oct. 9
