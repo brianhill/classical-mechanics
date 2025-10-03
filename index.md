@@ -21,6 +21,7 @@ We will begin the semester with a study of the major conservation laws. These ca
 Detailed daily schedules will be kept retrospectively:
 
 * [Daily Schedule-Term 2](./daily_schedule-term_2.html)
+* [Daily Schedule-Term 3](./daily_schedule-term_3.html)
 
 ## Text and Unit Outline
 
