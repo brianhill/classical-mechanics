@@ -34,12 +34,12 @@ Course [home page](./)
 * Monday, Oct. 6 &mdash; Study Chapter C9 &mdash; Problem Set 9: 1. C9B.1; 2. C9B.2; 3. C9B.11; 4. C9M.8; 5a. C9D.2 (you should do this derivation, but I am not going to grade it), 5b. C9D.3 (super-easy, just uses the final result of the previous problem)
 * Presentations:
   * Brian and Grace: Will re-do and finish the reduced mass derivation and then do Derivation C9D.4
-  * Sam and Sasha: Do Derivation C9D.6, and then apply it to find the equilibrium in C9M.7 (where the bungie jumper comes to rest after friction brings them slowly to a halt)
+  * Sam and Sasha: Do Derivation C9D.6, and then apply it to find the equilibrium position for the bungie jumper in C9M.7 (where the bungie jumper finally comes to rest after air friction slowly brings their bouncing to a halt)
 * Thursday, Oct. 9 &mdash; Study Chapter C10
 
 ### Week 7 &mdash; Rotational Energy
 
 * Monday, Oct. 13 &mdash; Study Chapter C11
-* WE WILL COME BACK AND PICK UP C12 AND C13 (GIVEN TIME) SOMETIME IN TERM 3 &mdash; ON THURSDAY, OCT. 30, TERM 5 WILL BEGIN WITH CHAPTER N1
+* WE WILL COME BACK AND PICK UP C12 AND C13 (GIVEN TIME) SOMETIME IN TERM 3 &mdash; ON THURSDAY, OCT. 30, TERM 3 WILL BEGIN WITH CHAPTER N1
 
 
