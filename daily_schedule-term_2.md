@@ -33,7 +33,7 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 
 ### Week 6 &mdash; Potential Energy Graphs &mdash; The Dot Product of Two Vectors &mdash; Work
 
-* Monday, Oct. 6 &mdash; Study Chapter C9 &mdash; Problem Set 9: 1. C9B.1; 2. C9B.2; 3. C9B.11; 4. C9M.8; 5a. C9D.2 (you should do this derivation, but I am not going to grade it), 5b. C9D.3 (super-easy, just uses the final result of the previous problem)
+* Monday, Oct. 6 &mdash; Study Chapter C9 &mdash; Problem Set 9: 1. C9B.1; 2. C9B.2; 3. C9B.11; 4. C9M.8; 5a. C9D.2, 5b. C9D.3
 * Thursday, Oct. 9 &mdash; Study Chapter C10 &mdash; Problem Set 10: 1. Write the lower-case Greek letter mu 10 times (make Jeff proud), then do the same for rho, then the same for beta, then the same for epsilon, then the same for the second common form of lower-case epsilon, then the same for alpha, then the same for sigma, and finally the same for tau (I have shown where to start making each letter with a red dot), 2. C10M.3 and C10M.4 (which are darned near the same problem, so I grouped them), 3. C10R.1, 4. C10D.1, 5. C10D.2 (did you notice that in 1. I had you spell &mu;&rho;. &beta;&epsilon;&alpha;&sigma;&tau; ;) )
 * Presentations:
   * Brian and Sasha: C10D.3 and C10D.4
@@ -41,11 +41,20 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 
 ### Week 7 &mdash; Rotational Energy
 
-* Monday, Oct. 13 &mdash; Study Chapter C11 &mdash; Problem Set 11: Forthcoming
+* Monday, Oct. 13 &mdash; Study Chapter C11 &mdash; The derivation culminating in Eq. C11.14 is the central result showing that we can divvy up the total kinetic energy into C.o.M. K.E. and internal K.E. (which is very often, but not necessarily, rotational) &mdash; Problem Set 11: 1. Re-do the [Exam 1](./exams/Exam1.nb.pdf) problem where a rod was modeled as 20 equal masses, but this time compute the kinetic energy of the 20 masses as the whole rod undergoes rotation at angular velocity &omega; (my model is a tad different than Moore's model on p. 174); 2. C11B.6; 3. C11B.8; 4. C11M.7 (this one will really make you think)
+* Presentations:
+  * Sam: Is it too much to have you compute (using an integral) the kinetic energy of a spinning hollow ball? I can help!
+  * Sasha: Can you present C11D.4, which is an independent way of getting the kinetic energy of a spinning hollow ball? I can help!
+  * Brian: Start with the kinetic energy of a spinning hollow ball and use that result to go exactly the opposite direction of what Sasha is presenting (get the solid sphere's kinetic energy by contemplating a bunch of nested hollow balls)
+* NOTE THAT THE PLAN FOR THURSDAY, OCT. 30 IS ALREADY BELOW IN CASE YOU WANT TO GET STARTED BEFORE WEDNESDAY, OCT. 29
 
-*ON THURSDAY, OCT. 30, TERM 3 WILL BEGIN WITH CHAPTER N1 &mdash; GIVEN TIME, WE WILL COME BACK AND PICK UP C12 AND C13 SOMETIME DURING TERM 3*
+## Daily Schedule - Term 3
 
 ### Week 8 &mdash; Begin Newton's Laws
 
-* Thursday, Oct. 30 &mdash; Study Chapter N1 &mdash; Problem Set 12: Forthcoming
-
+* Thursday, Oct. 30 &mdash; Study Chapter N1 &mdash; Problem Set 12: 1. N1M.3; 2. N1M.4; 3. N1D.2 (you can use the result of N1D.1); 4. N1R.3 (the job here is to compare the acceleration required to brake to a halt vs. the acceleration required to swerve, and if you find one is less than the other, you are done analyzing the problem, and that is what the driver should do)
+* Presentations:
+  * Grace: Present Exercise N1X.1 (and in addition, take a 2nd derivative to discover the object's acceleration, including its components, magnitude, and direction)
+  * Sam: Show how Figure N1.6(b) illustrates the *1/r* in N1.17
+  * Sasha: Show how Figure N1.6(c) illustrates the *v<sup>2</sup>* in N1.17
+  * Brian: Use *x(t)=A* cos *&omega;t* and *y(t)=A* sin *&omega;t* to get the results that Sam and Sasha got
