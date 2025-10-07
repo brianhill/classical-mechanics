@@ -57,4 +57,4 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
   * Grace: Present Exercise N1X.1 (and in addition, take a 2nd derivative to discover the object's acceleration, including its components, magnitude, and direction)
   * Sam: Show how Figure N1.6(b) illustrates the *1/r* in N1.17
   * Sasha: Show how Figure N1.6(c) illustrates the *v<sup>2</sup>* in N1.17
-  * Brian: Use *x(t)=A* cos *&omega;t* and *y(t)=A* sin *&omega;t* to get the results that Sam and Sasha got
+  * Brian: Take derivatives of *x(t)=A* cos *&omega;t* and *y(t)=A* sin *&omega;t* like Grace did to get the results that Sam and Sasha got
