@@ -1,4 +1,4 @@
-# Classical Mechanics &mdash; Daily Schedule Term 2
+# Classical Mechanics
 
 Course [home page](./)
 
@@ -34,10 +34,10 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 ### Week 6 &mdash; Potential Energy Graphs &mdash; The Dot Product of Two Vectors &mdash; Work
 
 * Monday, Oct. 6 &mdash; Study Chapter C9 &mdash; Problem Set 9: 1. C9B.1; 2. C9B.2; 3. C9B.11; 4. C9M.8; 5a. C9D.2 (you should do this derivation, but I am not going to grade it), 5b. C9D.3 (super-easy, just uses the final result of the previous problem)
+* Thursday, Oct. 9 &mdash; Study Chapter C10 &mdash; Problem Set 10: 1. Write the lower-case Greek letter mu 10 times (make Jeff proud), then do the same for rho, then the same for beta, then the same for epsilon, then the same for the second common form of lower-case epsilon, then the same for alpha, then the same for sigma, and finally the same for tau (I have shown where to start making each letter with a red dot), 2. C10M.3 and C10M.4 (which are darned near the same problem, so I grouped them), 3. C10E.1, 4. C10D.1, 5. C10D.2 (did you notice that in 1. I had you spell &mu;&rho;. &beta;&epsilon;&alpha;&sigma;&tau; ;) )
 * Presentations:
-  * Brian and Grace: Re-do and finish the reduced mass derivation and then do Derivation C9D.4
-  * Sam and Sasha: Do Derivation C9D.6, and then apply it to find the equilibrium position for the bungie jumper in C9M.7 (where the bungie jumper finally comes to rest after air friction slowly brings their bouncing to a halt)
-* Thursday, Oct. 9 &mdash; Study Chapter C10 &mdash; Problem Set 10: Forthcoming
+  * Brian and Sasha: C10D.3 and C10D.4
+  * Sam and Grace: C10R.2 (following Moore's suggestion to divide the analysis into three parts, one of you take the first and third parts, and the other take the second part)
 
 ### Week 7 &mdash; Rotational Energy
 
