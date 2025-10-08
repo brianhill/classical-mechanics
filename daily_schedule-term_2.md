@@ -46,7 +46,7 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
   * Sam: Is it too much to have you compute (using an integral) the kinetic energy of a spinning hollow ball? I can help!
   * Sasha: Can you present C11D.4, which is an independent way of getting the kinetic energy of a spinning hollow ball? I can help!
   * Brian: Start with the kinetic energy of a spinning hollow ball and use that result to go exactly the opposite direction of what Sasha is presenting (get the solid sphere's kinetic energy by contemplating a bunch of nested hollow balls)
-* NOTE THAT THE PLAN FOR THURSDAY, OCT. 30 IS ALREADY BELOW IN CASE YOU WANT TO GET STARTED BEFORE WEDNESDAY, OCT. 29
+* NOTE THAT THE PLAN FOR THURSDAY, OCT. 30 IS ALREADY BELOW IN CASE YOU WANT TO GET STARTED BEFORE THE END OF BREAK
 
 ## Daily Schedule - Term 3
 
