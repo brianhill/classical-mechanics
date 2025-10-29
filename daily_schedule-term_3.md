@@ -21,12 +21,12 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
   * Sam: Show how Figure N1.6(b) illustrates the *1/r* in N1.17
   * Sasha: Show how Figure N1.6(c) illustrates the *v<sup>2</sup>* in N1.17
   * Brian: Take derivatives of *x(t)=A* cos *&omega;t* and *y(t)=A* sin *&omega;t* like Grace did to get the results that Sam and Sasha got
- * Thursday, Nov. 6 &mdash; We will cover Chapter N2 &mdash; Problem Set 13 Forthcoming
+* Thursday, Nov. 6 &mdash; We will cover Chapter N2 &mdash; Problem Set 13: Forthcoming
 
 ### Week 10
 
-* Monday, Nov. 10
-* Thursday, Nov. 13
+* Monday, Nov. 10 &mdash; We will cover Chapter N3 &mdash; Problem Set 14: Forthcoming
+* Thursday, Nov. 13 &mdash; Either Thursday, Nov. 13 or Monday, Nov. 17, Exam 2 covering Chapters C8-C11 and N1-N3
 
 ### Week 11
 
