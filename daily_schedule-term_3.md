@@ -21,28 +21,28 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 ### Week 10 &mdash; Motion from Forces (By Doing Integrals of Acceleration) &mdash; Exam 2
 
 * Monday, Nov. 10 &mdash; Study Chapter N3 &mdash; Problem Set 14: Forthcoming
-* Thursday, Nov. 13 &mdash; Either Thursday, Nov. 13 or Monday, Nov. 17, Exam 2, covering Moore Chapters C8-C11 and N1-N3 &mdash; FOR EITHER DATE, the exam would only cover through N3
+* Thursday, Nov. 13 &mdash; Thursday, Nov. 13 Exam 2, covering Moore Chapters C8-C11 and N1-N3 &mdash; We could still move the exam to Nov. 17 (and still have it only cover through N3), but in that case we would cover N4 on Nov. 13
 
 ### Week 11
 
-* Monday, Nov. 17
-* Thursday, Nov. 20
+* Monday, Nov. 17 &mdash; Study Chapter N4
+* Thursday, Nov. 20 &mdash; Study Chapter N5
 
 ### Week 12
 
-* Monday, Nov. 24
+* Monday, Nov. 24 &mdash; Study Chapter N6
 
 ### Week 13
 
-* Monday, Dec. 1
-* Thursday, Dec. 4
+* Monday, Dec. 1 &mdash; Study Chapter N7
+* Thursday, Dec. 4 &mdash; Study Chapter N8
 
 ### Week 14
 
-* Monday, Dec. 8
-* Thursday, Dec. 11
+* Monday, Dec. 8 &mdash; Study Chapter N9
+* Thursday, Dec. 11 &mdash; Study Chapter N10
 
 ### Week 15
 
 * Monday, Dec. 15 &mdash; Exam 3
-* Thursday, Dec. 18 &mdash; A final, blow-off-the-top advanced topic, perhaps another Chapter of Feynman
+* Thursday, Dec. 18 &mdash; Kepler's Laws &mdash; Chapter N11 &mdash; The goal is to see how Kepler's Laws can be explained by Newton's Laws, which is one of Newton's definitive triumphs &mdash; Others in Newton's day had suspicions and hand-waving arguments about the gravitational force law &mdash; Newton pushed the theory through to an unambiguous conclusion that explained Brahe's, Kepler's and Galileo's work in a unifying sweep that set the goal and tone of science ever since
