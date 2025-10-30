@@ -1,4 +1,4 @@
-## Classical Mechanics &mdash; Daily Schedule Term 3
+# Classical Mechanics &mdash; Daily Schedule Term 3
 
 Course [home page](./)
 
@@ -15,7 +15,7 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
   * Grace: Present Exercise N1X.1 (and in addition, take a 2nd derivative to discover the object's acceleration, including the acceleration's components, magnitude, and direction) (a good thing to make the exercise more visual is to imagine what the trajectory given would look like and how it might come to be) 
   * Sam: Show how Figure N1.6(b) illustrates the *1/r* in N1.17 (it would be good to photocopy and hand out the figure on p. 15)
   * Sasha: Show how Figure N1.6(c) illustrates the *v<sup>2</sup>* in N1.17 (leverage Sam's photocopy/handout)
-  * Brian: Take derivatives of *x(t)=A* cos *&omega;t* and *y(t)=A* sin *&omega;t* much like Grace did for a known trajectory
+  * Brian: Take derivatives of *x(t)=A* cos *&omega;t* and *y(t)=A* sin *&omega;t* (much like Grace did for a known trajectory in her presentation)
 * Thursday, Nov. 6 &mdash; Study Chapter N2 &mdash; Problem Set 13: Forthcoming
 
 ### Week 10 &mdash; Motion from Forces (By Doing Integrals of Acceleration) &mdash; Exam 2
