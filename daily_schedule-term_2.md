@@ -38,4 +38,4 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 
 * Monday, Oct. 13 &mdash; Study Chapters 13 and 14 of *The Feynman Lectures on Physics, Volume I* &mdash; The presentations will be selected exercises from Chapter 10 of *Exercises for the Feynman Lectures on Physics*
 
-See also [Daily Schedule Term 3](./daily_schedule_term_3.html)
+See also [Daily Schedule Term 3](./daily_schedule-term_3.html)
