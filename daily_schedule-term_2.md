@@ -32,13 +32,10 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 ### Week 6 &mdash; Potential Energy Graphs &mdash; The Dot Product of Two Vectors &mdash; Work
 
 * Monday, Oct. 6 &mdash; Study Chapter C9 &mdash; Problem Set 9: 1. C9B.1; 2. C9B.2; 3. C9B.11; 4. C9M.8; 5a. C9D.2, 5b. C9D.3
-* Thursday, Oct. 9 &mdash; Study Chapter C10 &mdash; Problem Set 10: 1. Write the lower-case Greek letter mu 10 times (make Jeff proud), then do the same for rho, then the same for beta, then the same for epsilon, then the same for the second common form of lower-case epsilon, then the same for alpha, then the same for sigma, and finally the same for tau (I have shown where to start making each letter with a red dot), 2. C10M.3 and C10M.4 (which are darned near the same problem, so I grouped them), 3. C10R.1, 4. C10D.1, 5. C10D.2 (did you notice that in 1. I had you spell &mu;&rho;. &beta;&epsilon;&alpha;&sigma;&tau; ;) )
-* Presentations:
-  * Sasha and Brian: C10D.3(a) (Sasha), C10D.3(b) (Brian), and C10D.4 (Sasha again)
-  * Grace and Brian: C10R.2 (following Moore's suggestion to divide the problem into three parts, Grace will take the first and third parts, and Brian will take the second part)
+* Thursday, Oct. 9 &mdash; Study Chapter C10 &mdash; Problem Set 10: 1. Write the lower-case Greek letter mu 10 times (make Jeff proud), then do the same for rho, then the same for beta, then the same for epsilon, then the same for the second common form of lower-case epsilon, then the same for alpha, then the same for sigma, and finally the same for tau, 2. C10M.3 and C10M.4 (which are darned near the same problem, so I grouped them), 3. C10R.1, 4. C10D.1, 5. C10D.2 (did you notice that in 1. I had you spell &mu;&rho;. &beta;&epsilon;&alpha;&sigma;&tau; ;) )
 
 ### Week 7 &mdash; Special/Advanced Topic: Potentials, Forces, and the Work-Energy Theorem in Three Dimensions
 
 * Monday, Oct. 13 &mdash; Study Chapters 13 and 14 of *The Feynman Lectures on Physics, Volume I* &mdash; The presentations will be selected exercises from Chapter 10 of *Exercises for the Feynman Lectures on Physics*
 
-* NOTE THAT IN CASE YOU WANT TO GET STARTED BEFORE THE END OF BREAK, THE PLAN FOR THURSDAY, OCT. 30 IS ALREADY POSTED: [DAILY SCHEDULE TERM 3](./daily_schedule-term_3.html)
+See also [Daily Schedule Term 3](./daily_schedule_term_3.html)
