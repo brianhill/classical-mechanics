@@ -10,23 +10,24 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
   
 ### Week 9 &mdash; Newton's Laws &mdash; Forces From Motion (By Taking Derivatives of Position)
 
-* Monday, Nov. 3 &mdash; Study Chapter N1 &mdash; Problem Set 12: 1. N1M.3; 2. N1M.4; 3. N1D.2 (you can use the result of N1D.1); 4. N1R.3
+* Monday, Nov. 3 &mdash; Study Chapter N1 &mdash; Problem Set 12: 1. N1M.3; 2. N1M.4; 3. N1D.2 (you can use the result of N1D.1); 4. N1R.3 &mdash; I find that [my diagram for circular motion scaling](./resources/CircularMotionScaling.pdf) is both more exact and less complex than Moore's Fig. N1.6
 * Thursday, Nov. 6 &mdash; Study Chapter N2 &mdash; Problem Set 13: 1. N2B.4; 2. N2B.8; 3. N2M.5; 4. N2M.8; 5. N2R.3
-* Chapter N2 and N3 Presentations for Thursday:
-    * Sam: Lead people through a graphical exercise that begins with a mass *m*=2kg, and a motion of *x(t)=A* cos *&omega;t* with *A*=0.1m and *&omega;=2&pi;/T* and *T*=3s &mdash; They will start with a graph of position vs. time that shows a full 3-second cycle and then produce graphs of velocity vs. time and acceleration vs. time
-	* Sasha: Lead people through a graphical exercise that solves N3B.1 &mdash; Extend the graphical exercise to get an *x*-position after they have gotten the *x*-velocity
-    * Grace: Take the derivative of Equation N3.18 and show that a true result immediately emerges &mdash; Repeat for Equation N3.19 &mdash; This is an application of the Fundamental Theorem of Calculus (that the derivative of the integral gets you back the original function) &mdash; (An alternative Fundamental Theorem of Calculus is that the integral of the derivative gets you back the original function)
-	* Brian: Take the derivative of the energy conservation equation for a particle moving in an arbitrary potential and show that a true result immediately emerges (this is an application of the vector calculus version of the chain rule)
 
-### Week 10 &mdash; Motion from Forces (By Doing Integrals of Acceleration) &mdash; Exam 2
+### Week 10 &mdash; Motion from Forces (By Doing Integrals of Acceleration) &mdash; Statics
 
-* Monday, Nov. 10 &mdash; Study Chapter N3 &mdash; Problem Set 14: Forthcoming
-* Thursday, Nov. 13 &mdash; Study Chapter N4, which won't be on Monday the 17th's exam &mdash; Come prepared with any review topics you want to discuss from Chapters C8-C11 and N1-N3 &mdash; Problem Set 15 on Chapter N4: Forthcoming
+* Monday, Nov. 10 &mdash; Review (if needed) Appendix NB on integral calculus, and then study Chapter N3 &mdash; Problem Set 14: 1. N3M.6; 2. N3D.4; 3. Use the same setup as N3D.4, except this time find *a<sub>x</sub>(t)*; 4. N3R.1; 5. N3R.2
+* Presentations for Monday:
+    * NB: Moore is being uncharacteristically sloppy in quite a few places where he neglects to put the parenthesis in *(&Delta;&thinsp;t)*&thinsp;<sup>2</sup> &mdash; don't succumb to this sloppiness in your presentations below
+    * Grace: Newton had astronomical data for the average Earth-Moon distance and the period of the Moon's orbit around the Earth which is 27.3 days (not the usually quoted 29.5 days) &mdash; Demonstrate, as Newton did, that there is a consistency between the downward acceleration of objects near the Earth's surface, and the centripetal acceleration of the Moon as it proceeds around its approximately circular orbit (note, they are not identical, and you need equation N2.4a to demonstrate the consistency)
+	* Sam: I will provide you with a numerical integration example for a problem involving a constant accelerating force *and* a drag force that increases with velocity (such problems can often only be solved numerically, so only in special cases will you find them on problem sets or exams)
+	* Sasha: Can you lead us through something like Example 3.5, but for several steps of an elliptical orbit of a comet? I can help and we can make it a worksheet that you lead everybody through
+	* Brian: I will prep you for some of the material coming in N4, by discussing the two fundamental principles of statics, which are (1) balancing of forces, and (2) balancing of torques &mdash; Then I will do Example N4.5 that requires application of both principles to get a solution
+* Thursday, Nov. 13 &mdash; Study Chapter N4, which won't be on Monday, Nov 17th's exam &mdash; You can bring any review topics you want to discuss from Chapters C8-C11 and N1-N3 and/or I can be available for Q&A at multiple times on Saturday &mdash; Problem Set 15 on Chapter N4: Forthcoming
 
-### Week 11
+### Week 11 &mdash; Exam 2 &mdash; Linearly-Constrained Motion
 
 * Monday, Nov. 17 &mdash; Exam 2, covering Moore Chapters C8-C11 and N1-N3
-* Thursday, Nov. 20 &mdash; Chapter N5
+* Thursday, Nov. 20 &mdash; Chapter N5 (on commonly-encounteredlinearly-constrained situations)
 
 ### Week 12
 
