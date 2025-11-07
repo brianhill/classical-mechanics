@@ -1,0 +1,177 @@
+<html>
+<head>
+<title>HomeRunWithAirResistance.ipynb</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #bcbec4;}
+.s1 { color: #7a7e85;}
+.s2 { color: #bcbec4;}
+.s3 { color: #2aacb8;}
+.s4 { color: #cf8e6d;}
+.s5 { color: #6aab73;}
+.ls0 { height: 1px; border-width: 0; color: #43454a; background-color:#43454a}
+</style>
+</head>
+<body bgcolor="#1e1f22">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+HomeRunWithAirResistance.ipynb</font>
+</center></td></tr></table>
+<pre><span class="s0">#%% md 
+## Home Run with Air Resistance 
+ 
+**Execute the initialization cell.** All these variables will then be available to the rest of the code. <hr class="ls0">#%% 
+</span><span class="s1"># Initial speed of hit ball in meters per second</span>
+<span class="s0">initial_speed </span><span class="s2">= </span><span class="s3">60</span>
+
+<span class="s1"># Initial angle of hit ball in degrees from horizontal</span>
+<span class="s0">initial_angle </span><span class="s2">= </span><span class="s3">30</span>
+
+<span class="s1"># Simulation time step in seconds</span>
+<span class="s0">delta_t </span><span class="s2">= </span><span class="s3">0.1</span>
+
+<span class="s1"># Distance to fence in meters</span>
+<span class="s0">distance_to_fence </span><span class="s2">= </span><span class="s3">100</span>
+
+<span class="s1"># density_of_air * area_of_ball * drag_coefficient / (2 * mass_of_ball)</span>
+<span class="s1"># just call the whole combo air_constant_over_m</span>
+<span class="s0">air_constant_over_m </span><span class="s2">= </span><span class="s3">0.012</span>
+
+<span class="s1"># Below is the way g is usually defined -- the amount is 9.81 m/s^2 downwards.</span>
+<span class="s1"># People don't put a minus sign in g -- that's a convention, and we are not changing it.</span>
+<span class="s1"># When you use this constant, you have to remember to put the minus sign in front of it</span>
+<span class="s1"># to take care of the fact that gravity pulls in the -y direction.</span>
+<span class="s0">g </span><span class="s2">= </span><span class="s3">9.81</span>
+
+<span class="s1"># Simulation time step in seconds</span>
+<span class="s0">delta_t </span><span class="s2">= </span><span class="s3">0.1</span>
+
+<span class="s4">from </span><span class="s0">math </span><span class="s4">import </span><span class="s0">sin</span><span class="s2">, </span><span class="s0">cos</span><span class="s2">, </span><span class="s0">atan2</span><span class="s2">, </span><span class="s0">sqrt</span><span class="s2">, </span><span class="s0">pi</span>
+
+<span class="s1"># The following import statement makes the plotting library available to us. There is also a</span>
+<span class="s1"># statement to work around a known Jupyter bug: https://github.com/jupyter/notebook/issues/3670</span>
+<span class="s2">%</span><span class="s0">matplotlib inline</span>
+<span class="s4">import </span><span class="s0">matplotlib</span><span class="s2">.</span><span class="s0">pyplot </span><span class="s4">as </span><span class="s0">plt</span><hr class="ls0"><span class="s0">#%% md 
+## Function to get Components of a Vector <hr class="ls0">#%% 
+</span><span class="s1"># computes horizontal and vertical components of a vector and returns them as a tuple</span>
+<span class="s4">def </span><span class="s0">vector_components</span><span class="s2">(</span><span class="s0">length</span><span class="s2">, </span><span class="s0">angle_from_horizontal</span><span class="s2">):</span>
+    <span class="s1"># convert angle from degrees to radians</span>
+    <span class="s0">angle </span><span class="s2">= </span><span class="s0">angle_from_horizontal </span><span class="s2">* </span><span class="s0">pi </span><span class="s2">/ </span><span class="s3">180.0</span>
+    <span class="s1"># this line is good</span>
+    <span class="s0">horizontal_component </span><span class="s2">= </span><span class="s0">length </span><span class="s2">* </span><span class="s0">cos</span><span class="s2">(</span><span class="s0">angle</span><span class="s2">)</span>
+    <span class="s1"># fix the next line -- DONE</span>
+    <span class="s0">vertical_component </span><span class="s2">= </span><span class="s0">length </span><span class="s2">* </span><span class="s0">sin</span><span class="s2">(</span><span class="s0">angle</span><span class="s2">)</span>
+    <span class="s1"># return both components as a tuple</span>
+    <span class="s4">return </span><span class="s0">horizontal_component</span><span class="s2">, </span><span class="s0">vertical_component</span>
+
+<span class="s0">initial_horizontal_velocity</span><span class="s2">, </span><span class="s0">initial_vertical_velocity </span><span class="s2">= </span><span class="s0">vector_components</span><span class="s2">(</span><span class="s0">initial_speed</span><span class="s2">, </span><span class="s0">initial_angle</span><span class="s2">)</span>
+<span class="s0">initial_horizontal_velocity</span><span class="s2">, </span><span class="s0">initial_vertical_velocity</span><hr class="ls0"><span class="s0">#%% md 
+## Functions to get Angle and Speed from Components <hr class="ls0">#%% 
+</span><span class="s1"># sometimes we need to go from components to angle and speed -- instead of from angle and speed to components</span>
+
+<span class="s1"># get angle from components using atan2 version of arctangent function</span>
+<span class="s4">def </span><span class="s0">angle_from_velocity</span><span class="s2">(</span><span class="s0">horizontal_velocity</span><span class="s2">, </span><span class="s0">vertical_velocity</span><span class="s2">):</span>
+    <span class="s1"># use the arctangent function</span>
+    <span class="s0">angle </span><span class="s2">= </span><span class="s0">atan2</span><span class="s2">(</span><span class="s0">vertical_velocity</span><span class="s2">, </span><span class="s0">horizontal_velocity</span><span class="s2">)  </span>
+    <span class="s1"># we are working in degrees -- convert radians to degrees</span>
+    <span class="s0">angle_in_degrees </span><span class="s2">= </span><span class="s0">angle </span><span class="s2">* </span><span class="s3">180.0 </span><span class="s2">/ </span><span class="s0">pi</span>
+    <span class="s1"># return the result</span>
+    <span class="s4">return </span><span class="s0">angle_in_degrees</span>
+
+<span class="s1"># get speed from components using Pythagorean theorem</span>
+<span class="s4">def </span><span class="s0">speed_from_velocity</span><span class="s2">(</span><span class="s0">horizontal_velocity</span><span class="s2">, </span><span class="s0">vertical_velocity</span><span class="s2">):</span>
+    <span class="s1"># pythagorean theorem</span>
+    <span class="s0">hypotenuse </span><span class="s2">= </span><span class="s0">sqrt</span><span class="s2">(</span><span class="s0">horizontal_velocity</span><span class="s2">**</span><span class="s3">2 </span><span class="s2">+ </span><span class="s0">vertical_velocity</span><span class="s2">**</span><span class="s3">2</span><span class="s2">)</span>
+    <span class="s1"># return the result</span>
+    <span class="s4">return </span><span class="s0">hypotenuse</span><hr class="ls0"><span class="s0">#%% md 
+## Function to get Acceleration Components as a Tuple <hr class="ls0">#%% 
+</span><span class="s1"># The function will return a tuple consisting of the horizontal acceleration and the vertical acceleration.</span>
+<span class="s4">def </span><span class="s0">acceleration_with_drag</span><span class="s2">(</span><span class="s0">horizontal_velocity</span><span class="s2">, </span><span class="s0">vertical_velocity</span><span class="s2">):</span>
+    <span class="s0">angle </span><span class="s2">= </span><span class="s0">angle_from_velocity</span><span class="s2">(</span><span class="s0">horizontal_velocity</span><span class="s2">, </span><span class="s0">vertical_velocity</span><span class="s2">)</span>
+    <span class="s0">speed </span><span class="s2">= </span><span class="s0">speed_from_velocity</span><span class="s2">(</span><span class="s0">horizontal_velocity</span><span class="s2">, </span><span class="s0">vertical_velocity</span><span class="s2">)</span>
+    <span class="s0">strength_of_drag </span><span class="s2">= </span><span class="s0">air_constant_over_m </span><span class="s2">* </span><span class="s0">speed</span><span class="s2">**</span><span class="s3">2</span>
+    <span class="s0">direction_of_drag </span><span class="s2">= </span><span class="s0">angle </span><span class="s2">+ </span><span class="s3">180</span>
+    <span class="s0">horizontal_component</span><span class="s2">, </span><span class="s0">vertical_component </span><span class="s2">= </span><span class="s0">vector_components</span><span class="s2">(</span><span class="s0">strength_of_drag</span><span class="s2">, </span><span class="s0">direction_of_drag</span><span class="s2">)</span>
+    <span class="s4">return </span><span class="s0">horizontal_component</span><span class="s2">, </span><span class="s0">vertical_component </span><span class="s2">- </span><span class="s0">g</span>
+<hr class="ls0"><span class="s0">#%% md 
+## The While Loop That Does the Work <hr class="ls0">#%% 
+</span><span class="s1"># Initialize the x and y velocities</span>
+<span class="s0">x_velocities </span><span class="s2">= [</span><span class="s0">initial_horizontal_velocity</span><span class="s2">]</span>
+<span class="s0">y_velocities </span><span class="s2">= [</span><span class="s0">initial_vertical_velocity</span><span class="s2">]</span>
+<span class="s1"># Initialize the x and y positions</span>
+<span class="s0">x_positions </span><span class="s2">= [</span><span class="s3">0.0</span><span class="s2">]</span>
+<span class="s0">y_positions </span><span class="s2">= [</span><span class="s3">1.0</span><span class="s2">]</span>
+<span class="s1"># Initialize the times</span>
+<span class="s0">times </span><span class="s2">= [</span><span class="s3">0.0</span><span class="s2">]</span>
+
+<span class="s1"># We want to go until the ball is over the fence. If the ball doesn't make it to the fence after 100 steps, stop the program anyway.</span>
+
+<span class="s4">while </span><span class="s0">x_positions</span><span class="s2">[-</span><span class="s3">1</span><span class="s2">] &lt; </span><span class="s0">distance_to_fence </span><span class="s4">and </span><span class="s0">len</span><span class="s2">(</span><span class="s0">times</span><span class="s2">) &lt; </span><span class="s3">100</span><span class="s2">:</span>
+    <span class="s1">#</span>
+    <span class="s1"># get all the before values</span>
+    <span class="s1">#</span>
+    <span class="s1"># velocities</span>
+    <span class="s0">before_x_velocity </span><span class="s2">= </span><span class="s0">x_velocities</span><span class="s2">[-</span><span class="s3">1</span><span class="s2">]</span>
+    <span class="s0">before_y_velocity </span><span class="s2">= </span><span class="s0">y_velocities</span><span class="s2">[-</span><span class="s3">1</span><span class="s2">]</span>
+    <span class="s1"># positions</span>
+    <span class="s0">before_x_position </span><span class="s2">= </span><span class="s0">x_positions</span><span class="s2">[-</span><span class="s3">1</span><span class="s2">]</span>
+    <span class="s0">before_y_position </span><span class="s2">= </span><span class="s0">y_positions</span><span class="s2">[-</span><span class="s3">1</span><span class="s2">]</span>
+    <span class="s1"># time</span>
+    <span class="s0">before_time </span><span class="s2">= </span><span class="s0">times</span><span class="s2">[-</span><span class="s3">1</span><span class="s2">]</span>
+    <span class="s1">#</span>
+    <span class="s1"># use the new acceleration_with_drag function to get the accelerations</span>
+    <span class="s1">#</span>
+    <span class="s0">x_acceleration</span><span class="s2">, </span><span class="s0">y_acceleration </span><span class="s2">= </span><span class="s0">acceleration_with_drag</span><span class="s2">(</span><span class="s0">before_x_velocity</span><span class="s2">, </span><span class="s0">before_y_velocity</span><span class="s2">)</span>
+    <span class="s1">#</span>
+    <span class="s1"># bog-standard Euler update code -- in two dimensions</span>
+    <span class="s1">#</span>
+    <span class="s1"># update the x and y velocities</span>
+    <span class="s0">after_x_velocity </span><span class="s2">= </span><span class="s0">before_x_velocity </span><span class="s2">+ </span><span class="s0">delta_t </span><span class="s2">* </span><span class="s0">x_acceleration</span>
+    <span class="s0">after_y_velocity </span><span class="s2">= </span><span class="s0">before_y_velocity </span><span class="s2">+ </span><span class="s0">delta_t </span><span class="s2">* </span><span class="s0">y_acceleration</span>
+    <span class="s1"># update the x and y positions</span>
+    <span class="s0">after_x_position </span><span class="s2">= </span><span class="s0">before_x_position </span><span class="s2">+ </span><span class="s0">delta_t </span><span class="s2">* </span><span class="s0">before_x_velocity</span>
+    <span class="s0">after_y_position </span><span class="s2">= </span><span class="s0">before_y_position </span><span class="s2">+ </span><span class="s0">delta_t </span><span class="s2">* </span><span class="s0">before_y_velocity</span>
+    <span class="s1"># update time</span>
+    <span class="s0">after_time </span><span class="s2">= </span><span class="s0">before_time </span><span class="s2">+ </span><span class="s0">delta_t</span>
+    <span class="s1">#</span>
+    <span class="s1"># append all the after values to their lists</span>
+    <span class="s1">#</span>
+    <span class="s0">x_velocities</span><span class="s2">.</span><span class="s0">append</span><span class="s2">(</span><span class="s0">after_x_velocity</span><span class="s2">)</span>
+    <span class="s0">y_velocities</span><span class="s2">.</span><span class="s0">append</span><span class="s2">(</span><span class="s0">after_y_velocity</span><span class="s2">)</span>
+    <span class="s0">x_positions</span><span class="s2">.</span><span class="s0">append</span><span class="s2">(</span><span class="s0">after_x_position</span><span class="s2">)</span>
+    <span class="s0">y_positions</span><span class="s2">.</span><span class="s0">append</span><span class="s2">(</span><span class="s0">after_y_position</span><span class="s2">)</span>
+    <span class="s0">times</span><span class="s2">.</span><span class="s0">append</span><span class="s2">(</span><span class="s0">after_time</span><span class="s2">)</span>
+<hr class="ls0"><span class="s0">#%% md 
+## Graphs 
+ 
+There are various interesting graphs we can make out of the x and y positions, the x and y velocities, and the times. <hr class="ls0">#%% 
+plt</span><span class="s2">.</span><span class="s0">figure</span><span class="s2">(</span><span class="s0">figsize</span><span class="s2">=(</span><span class="s3">13</span><span class="s2">, </span><span class="s3">3</span><span class="s2">))</span>
+
+<span class="s0">plt</span><span class="s2">.</span><span class="s0">scatter</span><span class="s2">(</span><span class="s0">x_positions</span><span class="s2">, </span><span class="s0">y_positions</span><span class="s2">)</span>
+
+<span class="s0">plt</span><span class="s2">.</span><span class="s0">xlabel</span><span class="s2">(</span><span class="s5">&quot;Horizontal position (m)&quot;</span><span class="s2">)</span>
+<span class="s0">plt</span><span class="s2">.</span><span class="s0">ylabel</span><span class="s2">(</span><span class="s5">&quot;Vertical position (m)&quot;</span><span class="s2">)</span>
+
+<span class="s0">plt</span><span class="s2">.</span><span class="s0">show</span><span class="s2">()</span><hr class="ls0"><span class="s0">#%% 
+plt</span><span class="s2">.</span><span class="s0">figure</span><span class="s2">(</span><span class="s0">figsize</span><span class="s2">=(</span><span class="s3">13</span><span class="s2">, </span><span class="s3">3</span><span class="s2">))</span>
+
+<span class="s0">plt</span><span class="s2">.</span><span class="s0">scatter</span><span class="s2">(</span><span class="s0">times</span><span class="s2">, </span><span class="s0">x_velocities</span><span class="s2">)</span>
+
+<span class="s0">plt</span><span class="s2">.</span><span class="s0">xlabel</span><span class="s2">(</span><span class="s5">&quot;Time (s)&quot;</span><span class="s2">)</span>
+<span class="s0">plt</span><span class="s2">.</span><span class="s0">ylabel</span><span class="s2">(</span><span class="s5">&quot;Horizontal velocity (m/s)&quot;</span><span class="s2">)</span>
+<span class="s0">plt</span><span class="s2">.</span><span class="s0">ylim</span><span class="s2">(</span><span class="s3">0</span><span class="s2">, </span><span class="s3">60</span><span class="s2">)</span>
+
+<span class="s0">plt</span><span class="s2">.</span><span class="s0">show</span><span class="s2">()</span><hr class="ls0"><span class="s0">#%% 
+plt</span><span class="s2">.</span><span class="s0">figure</span><span class="s2">(</span><span class="s0">figsize</span><span class="s2">=(</span><span class="s3">13</span><span class="s2">, </span><span class="s3">3</span><span class="s2">))</span>
+
+<span class="s0">plt</span><span class="s2">.</span><span class="s0">scatter</span><span class="s2">(</span><span class="s0">times</span><span class="s2">, </span><span class="s0">y_velocities</span><span class="s2">)</span>
+
+<span class="s0">plt</span><span class="s2">.</span><span class="s0">xlabel</span><span class="s2">(</span><span class="s5">&quot;Time (s)&quot;</span><span class="s2">)</span>
+<span class="s0">plt</span><span class="s2">.</span><span class="s0">ylabel</span><span class="s2">(</span><span class="s5">&quot;Vertical velocity (m/s)&quot;</span><span class="s2">)</span>
+<span class="s0">plt</span><span class="s2">.</span><span class="s0">ylim</span><span class="s2">(-</span><span class="s3">35</span><span class="s2">, </span><span class="s3">35</span><span class="s2">)</span>
+<span class="s0">plt</span><span class="s2">.</span><span class="s0">axhline</span><span class="s2">()</span>
+
+<span class="s0">plt</span><span class="s2">.</span><span class="s0">show</span><span class="s2">()</span></pre>
+</body>
+</html>
