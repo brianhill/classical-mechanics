@@ -17,19 +17,16 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 * Monday, Nov. 10 &mdash; Review (if needed) Appendix NB on integral calculus, and then study Chapter N3 &mdash; Problem Set 14: 1. N3M.6; 2. N3D.4; 3. Use the same setup as N3D.4, except this time find *a<sub>x</sub>(t)*; 4. N3R.1; 5. N3R.2
 * Presentations for Monday:
-    * *NB:* Moore is being uncharacteristically sloppy in quite a few places where he neglects to put the parenthesis in *(&Delta;&thinsp;t)*&thinsp;<sup>2</sup> &mdash; don't succumb to this sloppiness in your presentations below
     * Grace: Newton had astronomical data for the average Earth-Moon distance and the period of the Moon's orbit around the Earth which is 27.3 days (not the usually-quoted 29.5 days) &mdash; Demonstrate, as Newton did, that there is consistency between the downward acceleration of objects near the Earth's surface, and the centripetal acceleration of the Moon as it proceeds around its approximately circular orbit (note, they are not identical, and also, you need equation N2.4a to demonstrate consistency) &mdash; Reference and explain [the famous thought experiment](./resources/PrincipiaDiagram.jpeg) that Newton included in *The Principia*
-	* Sasha: I will provide you with a numerical integration example for a problem involving a constant accelerating force *and* a drag force that increases with velocity (such problems can often only be solved numerically, so only in special cases will you find them on problem sets or exams) &mdash; Here is an HTML version of a Jupyter notebook I built for another class: [Home Run with Air Resistance](./resources/HomeRunWithAirResistance.ipynb.html) &mdash; If you want the Jupyter notebook instead of the HTML version of the notebook, just knock the .html extension off of the URL
 	* Sam: Can you lead us through something like Example 3.5, but for several steps of the elliptical orbit of Comet C/2025 R2 (SWAN)? We can make it a worksheet that you lead everybody through &mdash; Start of a worksheet is [here](./resources/CometSwan.pdf)
-	* Brian: I will prep you for some of the material coming in N4, by discussing the two fundamental principles of statics, which are (1) balancing of forces, and (2) balancing of torques &mdash; Then I will do Example N4.5 that requires application of both principles to get a solution
-
-
-* Thursday, Nov. 13 &mdash; Study Chapter N4, which won't be on Monday, Nov 17th's exam &mdash; You can bring any review topics you want to discuss from Chapters C8-C11 and N1-N3 and/or I can be available for Q&A at multiple times on Saturday &mdash; Problem Set 15 on Chapter N4: Forthcoming
+* Thursday, Nov. 13 &mdash; Study Chapter N4, which won't be on Monday, Nov 17th's exam &mdash; You can bring any review topics you want to discuss from Chapters C8-C11 and N1-N3 and/or I can be available for Q&A at multiple times on Saturday &mdash; Problem Set 15 on Chapter N4: 1. N4X.3 (try not to look at Moore's answer until you have one of your own); 2. N4B.5; 3. N4M.7 (give everything symbolic names before plugging in, *m* for the mass of the paint can, *c* for the length of the ladder leg, 2*a* for the separation of the rollers, and 2*b* for the length of the tie rod); 4. N4R.2
+* Presentations for Thursday:
+    * No presentations, but you all may want to bring in some set of topics or problems that you want reviewed before Monday's exam
+	* If there are no review topics or only a small number of them, I will proceed to Chapter N5
 
 ### Week 11 &mdash; Exam 2 &mdash; Linearly-Constrained Motion
 
 * Monday, Nov. 17 &mdash; Exam 2, covering Moore Chapters C8-C11 and N1-N3
-* *NB:* I might ask to move the Thursday, Nov. 20 to Wednesday Nov. 19, provided there isn't some big Wednesday event that that conflicts with
 * Thursday, Nov. 20 &mdash; Chapter N5 (on commonly-encountered linearly-constrained situations)
 
 ### Week 12
@@ -50,3 +47,6 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 * Monday, Dec. 15 &mdash; Exam 3
 * Thursday, Dec. 18 &mdash; Kepler's Laws &mdash; Following Chapter N11 of Moore &mdash; Or perhaps use [&ldquo;Feynman's Lost Lecture&rdquo;](https://dn710004.ca.archive.org/0/items/richard-feynman-pdf-library/Feynman%2C%20Richard%20%2837%20books%29/Feynman%27s%20Lost%20Lecture%20%5Bed.%20Goodstein%5D/Goodstein%2C%20D.%20%28ed.%29%20-%20Feynman%27s%20Lost%20Lecture%20%28Vintage%2C%201997%29.pdf) &mdash; The goal is to see how Kepler's Laws can be explained by Newton's Laws, which is one of Newton's definitive triumphs &mdash; Others in Newton's day had conjectures and incomplete arguments about a gravitational force law &mdash; Newton pushed his &ldquo;Law of Universal Gravitation&rdquo; through to an unambiguous conclusion that explained Brahe's, Kepler's and Galileo's work in a unifying sweep that has set the gold standard for all fields of science ever since
+
+* This presentation postponed, and will likely be modified to do an elliptical orbit instead of a linear acceleration with drag:
+    * I will provide you with a numerical integration example for a problem involving a constant accelerating force *and* a drag force that increases with velocity (such problems can often only be solved numerically, so only in special cases will you find them on problem sets or exams) &mdash; Here is an HTML version of a Jupyter notebook I built for another class: [Home Run with Air Resistance](./resources/HomeRunWithAirResistance.ipynb.html) &mdash; If you want the Jupyter notebook instead of the HTML version of the notebook, just knock the .html extension off of the URL
