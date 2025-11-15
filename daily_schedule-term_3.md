@@ -20,32 +20,29 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
     * Grace: Newton had astronomical data for the average Earth-Moon distance and the period of the Moon's orbit around the Earth which is 27.3 days (not the usually-quoted 29.5 days) &mdash; Demonstrate, as Newton did, that there is consistency between the downward acceleration of objects near the Earth's surface, and the centripetal acceleration of the Moon as it proceeds around its approximately circular orbit (note, they are not identical, and also, you need equation N2.4a to demonstrate consistency) &mdash; Reference and explain [the famous thought experiment](./resources/PrincipiaDiagram.jpeg) that Newton included in *The Principia*
 	* Sam: Can you lead us through something like Example 3.5, but for several steps of the elliptical orbit of Comet C/2025 R2 (SWAN)? We can make it a worksheet that you lead everybody through &mdash; Start of a worksheet is [here](./resources/CometSwan.pdf)
 * Thursday, Nov. 13 &mdash; Study Chapter N4, which won't be on Monday, Nov 17th's exam &mdash; You can bring any review topics you want to discuss from Chapters C8-C11 and N1-N3 and/or I can be available for Q&A at multiple times on Saturday &mdash; Problem Set 15 on Chapter N4: 1. N4X.3 (try not to look at Moore's answer until you have one of your own); 2. N4B.5; 3. N4M.7 (give everything symbolic names before plugging in, *m* for the mass of the paint can, *c* for the length of the ladder leg, 2*a* for the separation of the rollers, and 2*b* for the length of the tie rod); 4. N4R.2
-* Presentations for Thursday:
-    * No presentations, but you all may want to bring in some set of topics or problems that you want reviewed before Monday's exam
-	* If there are no review topics or only a small number of them, I will proceed to Chapter N5
 
-### Week 11 &mdash; Exam 2 &mdash; Linearly-Constrained Motion
+### Week 11 &mdash; Exam 2 &mdash; Linearly-Constrained Motion, Static Friction, and Kinetic Friction
 
 * Monday, Nov. 17 &mdash; Exam 2, covering Moore Chapters C8-C11 and N1-N3
-* Thursday, Nov. 20 &mdash; Chapter N5 (on commonly-encountered linearly-constrained situations)
+* Wednesday, Nov. 19 &mdash; NORMALLY THURSDAY &mdash; THANKS FOR SWITCHING TO WEDNESDAY &mdash; Chapter N5 &mdash; Problem Set 16: 1. N5T.10 (this is much easier to handle as a change in momentum problem rather than as a change in kinetic energy problem); 2. N5B.6 (be efficient and use that this is a proportional reasoning problem and you'll see that the units drop out); 3. N5B.7 (a lot like N5T.10 except this time he wants the distance traveled, not the change in speed); 4. N5M.10; 5. N5M.14 (instead of plugging in numbers, don't even bother with that, and just give good names to the variables, especially the ones you are solving for, which we can call *&mu;*<sub>s</sub> and *d*); 6. N5D.3
 
-### Week 12
+### Week 12 &mdash; Coupled Objects
 
 * Monday, Nov. 24 &mdash; Chapter N6
 
-### Week 13
+### Week 13 &mdash; Circular Motion &mdash; Non-Inertial Frames and Fictitious Forces
 
 * Monday, Dec. 1 &mdash; Chapter N7
 * Thursday, Dec. 4 &mdash; Chapter N8
 
-### Week 14
+### Week 14 &mdash; Projectile Motion &mdash; Oscillatory Motion
 
 * Monday, Dec. 8 &mdash; Chapter N9
 * Thursday, Dec. 11 &mdash; Chapter N10
 
-### Week 15
+### Week 15 &mdash; Exam 3 &mdash; Kepler's Laws
 
-* Monday, Dec. 15 &mdash; Exam 3
+* Monday, Dec. 15 &mdash; Exam 3, covering Moore Chapters N4-10
 * Thursday, Dec. 18 &mdash; Kepler's Laws &mdash; Following Chapter N11 of Moore &mdash; Or perhaps use [&ldquo;Feynman's Lost Lecture&rdquo;](https://dn710004.ca.archive.org/0/items/richard-feynman-pdf-library/Feynman%2C%20Richard%20%2837%20books%29/Feynman%27s%20Lost%20Lecture%20%5Bed.%20Goodstein%5D/Goodstein%2C%20D.%20%28ed.%29%20-%20Feynman%27s%20Lost%20Lecture%20%28Vintage%2C%201997%29.pdf) &mdash; The goal is to see how Kepler's Laws can be explained by Newton's Laws, which is one of Newton's definitive triumphs &mdash; Others in Newton's day had conjectures and incomplete arguments about a gravitational force law &mdash; Newton pushed his &ldquo;Law of Universal Gravitation&rdquo; through to an unambiguous conclusion that explained Brahe's, Kepler's and Galileo's work in a unifying sweep that has set the gold standard for all fields of science ever since
 
 * This presentation postponed, and will likely be modified to do an elliptical orbit instead of a linear acceleration with drag:
