@@ -45,7 +45,7 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
   * Sam: Explain the proof/theory that culminates in Eq. N7.18
   * Sasha: Analyze the Grace-on-the-swing problem theoretically about half-way when she is at an angle 20&deg; from vertical, assuming the maximum point on her arc was 40&deg; from vertical), apply N7.18 to the analysis, and see if the theory agrees with the video
   * Brian: Fictitious forces derivation (the theory for Section N8.5 of the coming chapter)  
-  <img src="./resources/PlaygroundMerryGoRound.jpg "width="55%"/>
+  <img src="./resources/PlaygroundMerryGoRound.jpg" width="55%"/>
 * Thursday, Dec. 4 &mdash; Chapter N8
 
 ### Week 14 &mdash; Projectile Motion &mdash; Oscillatory Motion
