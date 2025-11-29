@@ -41,9 +41,9 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 * Monday, Dec. 1 &mdash; Study Chapter N7 &mdash; You have already studied circular motion and know the fundamental result, but there are common and important additional examples of circular motion that are the focus of this chapter &mdash; As one of the many additional examples, Moore shows you how to deal with circular motion on a banked corner &mdash; Problem Set 18: N7M.1, N7M.4, N7M.5, N7M.9 (for N7M.9 you need to apply Eq. N7.18, including combining the two parts of N7.18 vectorially to find the length of the resulting acceleration vector)
 * Presentations for Monday:
-  * Grace: I have video of you on a swing &mdash; Use the frames in the video to make a motion diagram of swinging and reasonably-accurately deduce the acceleration vectors at various points in the arc, especially at the top of the arc, the bottom of the arc, and about half-way in-between (for definiteness, let's say half-way is 20&deg; from vertical, and try to deduce the acceleration vector there)
+  * Grace: I have video of you on a swing &mdash; Use the frames in the video to make a motion diagram of swinging and reasonably-accurately deduce the acceleration vectors at various points in the arc, especially at the top of the arc, the bottom of the arc, and most importantly, part-way in-between (for definiteness, let's say part-way is 60&deg; from vertical, and try to deduce the acceleration vector there)
   * Sam: Explain the proof/theory that culminates in Eq. N7.18
-  * Sasha: Analyze the Grace-on-the-swing problem theoretically about half-way when she is at an angle 20&deg; from vertical, assuming the maximum point on her arc was 40&deg; from vertical), apply N7.18 to the analysis, and see if the theory agrees with the video
+  * Sasha: Analyze the Grace-on-the-swing problem theoretically when she is part-way down at an angle 60&deg; from vertical, assuming the maximum point on her arc was 75&deg; from vertical), apply N7.18 to the analysis, and see if the theory agrees with the video
   * Brian: Fictitious forces derivation (the theory for Section N8.5 of the coming chapter)  
   <img src="./resources/PlaygroundMerryGoRound.jpg" width="55%"/>
 * Thursday, Dec. 4 &mdash; Chapter N8
