@@ -45,19 +45,25 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
     * Sam: Explain the proof/theory that culminates in Eq. N7.18
     * Sasha: Analyze the Grace-on-the-swing problem theoretically when she is part-way down at an angle 60&deg; from vertical, assuming the maximum point on her arc was 75&deg; from vertical, and the length of the swing is two meters, apply N7.18 to the analysis
     * Brian: Fictitious forces derivation (the theory for Section N8.5 of the coming chapter) for the Coriolis and centrifugal forces, and I will simplify by focusing only on a flat rotating coordinating system, such as a merry-go-round:  
-	<img src="./resources/PlaygroundMerryGoRound.jpg" width="45%"/>
+	<img src="./resources/PlaygroundMerryGoRound.jpg" width="60%"/>
 * Thursday, Dec. 4 &mdash; Study Chapter N8, especially Sections N8.1, N8.2, and N8.3 which are quite important &mdash; Sections N8.4 and N8.5 may help build your intuition &mdash; Section N8.6 on fictitious forces is really pretty advanced, and except for one question about the Coriolis force on Problem Set 19, we will not consider fictitious forces any further
   * Problem Set 19 for Thursday: 1. Do these five two-minute problems, N8T.1, N8T.3, N8T.5, N8T.6, N8T.7; 2. N8M.4; 3. N8M.9; 4. N8R.3; 5. At a point not too far from the North Pole, where we can treat the Earth as a flat merry-go-round spinning around the North Pole, Santa is rushing north at speed, *v<sub>Y</sub>*=50 m/s to go pick up another batch of presents (a) Taking east (around the merry-go-round) as the X direction and north (towards the center of the merry-go-round) as the Y direction, compute the Coriolis force on Santa and his sleigh (for this part, don't plug in any numbers and just assume Santa and his sleigh have mass *m*) (b) You should have found only an *X*-component in the Coriolis force in Part (a), and setting this equal to *m a<sub>X</sub>*, what is the *X*-component (eastward component) of Santa's acceleration as he rushes to the north? (still do not plug in numbers) (c) Assuming this eastward acceleration is constant and acts for a duration of 15 minutes, how much is Santa deflected to the east (now plug in numbers, using &omega; for the rotating Earth, and round your answer to the nearest number of kilometers)
   * Presentations for Thursday: Each person pick one additional problem (please coordinate with one another) from the modeling, derivations, or rich-context Problems from Chapter 8 to present. I will Do N8D.2 (a taste of how Einstein approached the bending of light).
 
 ### Week 14 &mdash; Projectile Motion &mdash; Oscillatory Motion
 
-* Monday, Dec. 8 &mdash; Chapter N9
+* Monday, Dec. 8 &mdash; Study Chapter N9 &mdash; Problem Set 20 for Monday: 1. N9B.8; 2. N9M.8; 3. N9D.2; 4. N9D.3; 5. N9R.2 (villagers!)
+* Presentations for Monday:
+  * Grace: Derive Equation N9.16 from N9.15 (that's a one-liner). Then change N9.15 to just be *F<sub>D</sub>=-C&rho;v* and get a new equation for the terminal velocity kind of like N9.16. The changed version of N9.15 is a familiar equation (you encountered it back in Problem N5D.3). What is its solution?
+  * Sasha: Explain Equations N9.18, N9.19, and the curves in Figrure N9.4.
+  * Brian: I will show how to use Mathematica to get a Figure like N9.4.
+  * Sam: Can you find &ldquo;The Newton App&rdquo; that Moore refers to a few times (wherever it is on the web), fire it up, apply it to N9M.12(a)?  
+  <img src="./resources/EvelKnieval.png" width="60%"/>
 * Thursday, Dec. 11 &mdash; Chapter N10
 
 ### Week 15 &mdash; Exam 3 &mdash; Kepler's Laws
 
-* Monday, Dec. 15 &mdash; Exam 3, covering Moore Chapters N4-10
+* Monday, Dec. 15 &mdash; Exam 3, covering Moore Chapters N4 to N10 (including N8, but none of fictitious force stuff in Sections N8.6 and N8.7)
 * Thursday, Dec. 18 &mdash; Kepler's Laws &mdash; Following Chapter N11 of Moore &mdash; Or perhaps use [&ldquo;Feynman's Lost Lecture&rdquo;](https://dn710004.ca.archive.org/0/items/richard-feynman-pdf-library/Feynman%2C%20Richard%20%2837%20books%29/Feynman%27s%20Lost%20Lecture%20%5Bed.%20Goodstein%5D/Goodstein%2C%20D.%20%28ed.%29%20-%20Feynman%27s%20Lost%20Lecture%20%28Vintage%2C%201997%29.pdf) &mdash; The goal is to see how Kepler's Laws can be explained by Newton's Laws, which is one of Newton's definitive triumphs &mdash; Others in Newton's day had conjectures and incomplete arguments about a gravitational force law &mdash; Newton pushed his &ldquo;Law of Universal Gravitation&rdquo; through to an unambiguous conclusion that explained Brahe's, Kepler's and Galileo's work in a unifying sweep that has set the gold standard for all fields of science ever since
 
 * This presentation postponed, and will likely be modified to do an elliptical orbit instead of a linear acceleration with drag:
