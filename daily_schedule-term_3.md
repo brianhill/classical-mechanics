@@ -55,9 +55,9 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 * Monday, Dec. 8 &mdash; Study Chapter N9 &mdash; Problem Set 20 for Monday: 1. N9B.8; 2. N9M.8; 3. N9D.2; 4. N9D.3; 5. N9R.2 (villagers!)
 * Presentations for Monday:
   * Grace: Derive Equation N9.16 from N9.15 (that's a one-liner). Then change N9.15 to just be *F<sub>D</sub>=-C&rho;v* and get a new equation for the terminal velocity kind of like N9.16. The changed version of N9.15 is a familiar equation (you encountered it back in Problem N5D.3). What is its solution?
-  * Sasha: Explain Equations N9.18, N9.19, and the curves in Figrure N9.4.
+  * Sasha: Explain Equations N9.18, N9.19, and the curves in Figure N9.4.
   * Brian: I will show how to use Mathematica to get a Figure like N9.4.
-  * Sam: Can you find &ldquo;The Newton App&rdquo; that Moore refers to a few times (wherever it is on the web), fire it up, apply it to N9M.12(a)?  
+  * Sam: Can you find &ldquo;The Newton App&rdquo; that Moore refers to a few times (wherever it is on the web), fire it up, apply it to N9M.12(a)? If you can't find it and make it work, you can use my Python code that does a similar thing.
   <img src="./resources/EvelKnieval.png" width="60%"/>
 * Thursday, Dec. 11 &mdash; Chapter N10
 
