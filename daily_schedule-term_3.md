@@ -57,14 +57,22 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
   * Grace: Derive Equation N9.16 from N9.15 (that's a one-liner). Then change N9.15 to just be *F<sub>D</sub>=-C&rho;v* and get a new equation for the terminal velocity kind of like N9.16. The changed version of N9.15 is a familiar equation (you encountered it back in Problem N5D.3). What is its solution?
   * Sasha: Explain Equations N9.18, N9.19, and the curves in Figure N9.4.
   * Brian: I will show how to use Mathematica to get a Figure like N9.4.
-  * Sam: Can you find &ldquo;The Newton App&rdquo; that Moore refers to a few times (wherever it is on the web), fire it up, apply it to N9M.12(a)? If you can't find it and make it work, you can use my Python code that does a similar thing.
-  <img src="./resources/EvelKnieval.png" width="60%"/>
-* Thursday, Dec. 11 &mdash; Chapter N10
+  * Sam: Apply the Newton app (which Sam found [here](https://physics.pomona.edu/sixideas/Newton/)) to N9M.12(a)?
+  <img src="./resources/EvelKnieval.png" width="40%"/>
+* Thursday, Dec. 11 &mdash; Study Chapter N10
+* Problem Set 21 for Dec. 11 (I AM NOT DONE WITH THIS, BUT YOU CAN GET STARTED ON PROBLEMS 1-3)
+  * Problem 1. N10MB.4 (the MKS units for the spring constant are Newtons/meter or Joules/meter<sup>2</sup>, but in atomic physics a better unit of energy is the eV and a better unit of distance is the Angstrom, so convert your answer to eV/Angstrom<sup>2</sup>)
+  * Problem 2. N10M.7 (let's assume the person on the pogo stick is a kid weighing 40kg)
+  * Problem 3. N10A.1 (another advanced problem and this one gives you an )
+  * Problem 4. I need to write a problem that underlines and relates the two most common expressions for oscillatory motion, one of which involves the sine and the cosine, and one of which involves just a cosine, but with an offset angle.
+  * Problem 5. I also need to write a problem that unites the ideas of Chapter N5 and N9 into an interesting coupled objects oscillation problem. We have already done two masses coupled to each other and the walls by a total of three springs. The obvious thing to try next is to three objects coupled to each other and the walls by a total of four springs.
+* Presentations for Thursday:
+  * Grace: Show that the solution we worked with in 4(a) satisfies energy conservation
+  * Sasha: Show that the solution we worked with in 4(b) also satisfies energy conservation
+  * Sam: Demonstrate the law of superposition for homogeneous, linear differential equations, using as an example the differential equation for the harmonic oscillator &mdash; What if the differential equation has an inhomogeneous term?
+  * Brian: Use Mathematica to solve and animate Problem 5
 
 ### Week 15 &mdash; Exam 3 &mdash; Kepler's Laws
 
 * Monday, Dec. 15 &mdash; Exam 3, covering Moore Chapters N4 to N10 (including N8, but none of fictitious force stuff in Sections N8.6 and N8.7)
 * Thursday, Dec. 18 &mdash; Kepler's Laws &mdash; Following Chapter N11 of Moore &mdash; Or perhaps use [&ldquo;Feynman's Lost Lecture&rdquo;](https://dn710004.ca.archive.org/0/items/richard-feynman-pdf-library/Feynman%2C%20Richard%20%2837%20books%29/Feynman%27s%20Lost%20Lecture%20%5Bed.%20Goodstein%5D/Goodstein%2C%20D.%20%28ed.%29%20-%20Feynman%27s%20Lost%20Lecture%20%28Vintage%2C%201997%29.pdf) &mdash; The goal is to see how Kepler's Laws can be explained by Newton's Laws, which is one of Newton's definitive triumphs &mdash; Others in Newton's day had conjectures and incomplete arguments about a gravitational force law &mdash; Newton pushed his &ldquo;Law of Universal Gravitation&rdquo; through to an unambiguous conclusion that explained Brahe's, Kepler's and Galileo's work in a unifying sweep that has set the gold standard for all fields of science ever since
-
-* This presentation postponed, and will likely be modified to do an elliptical orbit instead of a linear acceleration with drag:
-    * I will provide you with a numerical integration example for a problem involving a constant accelerating force *and* a drag force that increases with velocity (such problems can often only be solved numerically, so only in special cases will you find them on problem sets or exams) &mdash; Here is an HTML version of a Jupyter notebook I built for another class: [Home Run with Air Resistance](./resources/HomeRunWithAirResistance.ipynb.html) &mdash; If you want the Jupyter notebook instead of the HTML version of the notebook, just knock the .html extension off of the URL
