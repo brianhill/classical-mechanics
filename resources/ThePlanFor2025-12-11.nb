@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     61322,       1193]
-NotebookOptionsPosition[     59204,       1147]
-NotebookOutlinePosition[     59652,       1165]
-CellTagsIndexPosition[     59609,       1162]
+NotebookDataLength[     61734,       1191]
+NotebookOptionsPosition[     59614,       1145]
+NotebookOutlinePosition[     60062,       1163]
+CellTagsIndexPosition[     60019,       1160]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -43,13 +43,14 @@ Cell[TextData[StyleBox["Classical Mechanics",
 919930044f24"],
 
 Cell[TextData[StyleBox["The Plan \[LongDash] including my two additional \
-problems \[LongDash] for Thursday, Dec. 11",
+problems \[LongDash] for Thursday, Dec. 11, 2025",
  FontSize->18,
  FontWeight->"Regular",
  FontSlant->"Italic"]], "Subtitle",
  CellChangeTimes->{{3.974290210033581*^9, 3.9742902485339947`*^9}, {
   3.974293310218067*^9, 3.974293355850209*^9}, {3.974293929345392*^9, 
-  3.974293929704571*^9}},ExpressionUUID->"64af6912-0caa-4912-8627-\
+  3.974293929704571*^9}, {3.974309065342478*^9, 
+  3.974309066855147*^9}},ExpressionUUID->"64af6912-0caa-4912-8627-\
 e4151cd7b96f"],
 
 Cell[CellGroupData[{
@@ -88,30 +89,30 @@ pendulum is small enough that we can focus on terms of order \[Theta] and \
 neglect terms of order ",
  Cell[BoxData[
   FormBox[
-   SuperscriptBox["\[Theta]", "3"], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   SuperscriptBox["\[Theta]", "3"], TraditionalForm]],ExpressionUUID->
   "b6c17be1-5153-4e51-8ec3-2f70fbab5c96"],
  " or higher, then they are approximately the same. This approximation is \
-performed in Section N10.6.\n"
+performed by Moore in Section N10.6.\n"
 }], "Text",
  CellChangeTimes->CompressedData["
-1:eJwdzFtIk2EAxvGRWpjSRVoyxU8TnW6l5LLtogzfYWWFpQulEAUVYZNy4AFR
-wZiOCL0pXWG57DgcUWhrU/g8UKRQzgNOInWCLleg9g7ygExl9j7fxcPv5uF/
-okSnLjsgEokkbNBzf7q0LZqSdOWrMrhkdWphpPNoOZQPmJegsynCDd9ueDzw
-71xuWDuzaFwXBS0KHQd9g70SKFNcToS1Y3+SYU6ehUAXOV8IW56bNLBVnHkP
-HjJ79XBl/+C/YI4Sm1Hjgy3HUvxcDCUBi6FBMczP14pLr8dS4phd18LoF3Iz
-FB/J6YbhKv6Ul9m1k38BjpvOZcHDp92Cw7f032A/5dxw12H8DZOu2teEv7Jv
-G66UZPrgDUPN8n4SJcUz6k1o8U+ItVJKju8txsPZGl5TzuyQf6+Eoas3dxqY
-Ccb6PZhyxXH3jIwSxQNVLUx7/JM7y7SL06RwPkrVrGBG+goMsOuJ8uUHZsba
-Vg8MTBy2DjFHvk59grbUXh6GLU8OQk3PnR/QldAq+Gy10wVDVNOCcaNx8QvM
-6oVkCaz4ktWRf5J1PSFmeCm4saLARIkhoL0O/nqfq4fe2KomaA3KeAjfVb0W
-5PmNp3B36OJHePuN2g4b9dk89D+alxYybZ3hMvgfIiYyHA==
+1:eJwdzF1Ik2EAxfGRWZjiRWoyxVcTdW6l1LLtohSfYWmGpYskEQM1YdNy0BKp
+wJgOEe2icoW2aaUORxTq2gpePygqqKaFi0idoMsVqD2DsoipzJ7zXhx+N4f/
+3iqdumabSCSSsEFf63T1nQRKspWPauCi3a2Fce7dtVA+al2E7uZYLxxY8/ng
+z9mSqE7m+UldPLQpdBwMjA2nQZkiXwIbP/zIgMVnbQR6yNEK2N5j0cAOcd4N
+uNPqN8DlrR2/wjhKHCZNALbHZAa5REpCFiJCE5kvT1ZWn0qixDXzWwsTHsit
+UBxZPAijVfx+P7N3vTQHTlqOFMBdB7yCE+cM7+ALynnhhsv0HaYXOleFv/L5
+P7hclReAp40NS1vplFR+Vv+BtuCUWCulZM/mQgqcaeA1tcwu+fvLMGLlzPp1
+Zqrp2ibMPOG6dEhGiaJN1Qiz7n7lDjOd4iwpnItXtSiYcYFyI+y9p3z4lJm7
++ncIbpdM2MeZb15/egYdB4d5GLX0cQxqhi5+gZ7UDsH7K2YPDFdNCya/TU6Z
+Z16Zz0iD9a8Kukr3sa4v3AqPhzXVl1soMYZ0XoXfnpQYoD9J3wztobm34GN9
+nyDPr3XDjfFjI7CsX+2ETYYiHgZvz0krmA5ztAzG6uvMF5g3p0yC/wGJWTqR
+
   "],ExpressionUUID->"10327151-b088-468c-bfc1-712db4746501"]
 }, Open  ]],
 
 Cell[CellGroupData[{
 
-Cell["Problems From Chapter N10", "Section",
+Cell["Problems From Chapter N10 for Problem Set 21", "Section",
  CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
    3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902688223918044*^9, 
    3.902688230735215*^9}, {3.9029273886210003`*^9, 3.902927388845333*^9}, {
@@ -128,8 +129,8 @@ Cell["Problems From Chapter N10", "Section",
    3.91402782937642*^9, 3.914027834258408*^9}, {3.914689778864653*^9, 
    3.914689781259591*^9}, {3.914721675069018*^9, 3.914721675204649*^9}, 
    3.9150355861516733`*^9, {3.974290280217226*^9, 3.9742902855884733`*^9}, {
-   3.9742904229336348`*^9, 
-   3.974290433253234*^9}},ExpressionUUID->"39b67822-fab3-4af4-9957-\
+   3.9742904229336348`*^9, 3.974290433253234*^9}, {3.9743091195562687`*^9, 
+   3.974309123452982*^9}},ExpressionUUID->"39b67822-fab3-4af4-9957-\
 995e6360c459"],
 
 Cell[TextData[{
@@ -218,7 +219,7 @@ Problem 4.  Relating the Two Most Common Expressions for Oscillatory Motion\
 3b56be958461"],
 
 Cell[TextData[{
- "One common expression for the solution of oscillatory motion problem \
+ "One common expression for the solution of oscillatory motion problems \
 involves the sine and the cosine, and the other just involves just a cosine, \
 but with an offset angle. Which is more convenient depends on the situation.\n\
 \n(a) Show that ",
@@ -232,8 +233,7 @@ but with an offset angle. Which is more convenient depends on the situation.\n\
       "t"}], "+", 
      RowBox[{
      "D", " ", "sin", "\[VeryThinSpace]", "\[Omega]", "\[VeryThinSpace]", 
-      "t"}]}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+      "t"}]}]}], TraditionalForm]],ExpressionUUID->
   "50b9d0bd-01f3-4123-9a0e-d33652c5fd11"],
  " satisfies ",
  Cell[BoxData[
@@ -242,17 +242,14 @@ but with an offset angle. Which is more convenient depends on the situation.\n\
     RowBox[{"m", "\[VeryThinSpace]", "a"}], "=", 
     RowBox[{
      RowBox[{"-", "k"}], "\[VeryThinSpace]", "x"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "f8b37d97-109c-4085-ba1d-58eb0be980ef"],
+  ExpressionUUID->"f8b37d97-109c-4085-ba1d-58eb0be980ef"],
  ". This works for any value of ",
  Cell[BoxData[
-  FormBox["C", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["C", TraditionalForm]],ExpressionUUID->
   "a336b3ff-bbee-40eb-9760-70a45c445a20"],
  " and ",
  Cell[BoxData[
-  FormBox["D", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["D", TraditionalForm]],ExpressionUUID->
   "0bf74ecd-beb7-43f8-a821-2d6228dffd27"],
  ", but for it to work, what must \[Omega] be?\n\nHINT/COMMENT: Proceed in an \
 organized fashion. First compute ",
@@ -263,8 +260,7 @@ organized fashion. First compute ",
     FractionBox[
      RowBox[{"d", "\[VeryThinSpace]", "x"}], 
      RowBox[{"d", "\[VeryThinSpace]", "t"}]]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "b20d73a6-c8cc-476e-b8b2-f5315a221176"],
+  ExpressionUUID->"b20d73a6-c8cc-476e-b8b2-f5315a221176"],
  ". Then compute ",
  Cell[BoxData[
   FormBox[
@@ -289,8 +285,7 @@ organized fashion. First compute ",
      RowBox[{"cos", "\[VeryThinSpace]", "(", 
       RowBox[{
        RowBox[{"\[Omega]", "\[VeryThinSpace]", "t"}], " ", "+", "\[Theta]"}], 
-      ")"}]}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+      ")"}]}]}], TraditionalForm]],ExpressionUUID->
   "fc49b29f-7b02-449a-8473-dfa47642ec7d"],
  " satisfies ",
  Cell[BoxData[
@@ -304,84 +299,70 @@ organized fashion. First compute ",
        SuperscriptBox["t", "2"]}]]}], "=", 
     RowBox[{
      RowBox[{"-", "k"}], "\[VeryThinSpace]", "x"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "94e7eb5a-c3c5-4534-ab27-ff03a3ad85f2"],
+  ExpressionUUID->"94e7eb5a-c3c5-4534-ab27-ff03a3ad85f2"],
  ". This works for any value of ",
  Cell[BoxData[
-  FormBox["C", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["A", TraditionalForm]],ExpressionUUID->
   "019779f7-2998-4a87-aa78-d98a1c88c30a"],
  " and ",
  Cell[BoxData[
-  FormBox["D", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["\[Theta]", TraditionalForm]],ExpressionUUID->
   "095c0449-8fe4-4292-9f7d-33cd3f70ddb3"],
- ", but for it to work, what must \[Omega] be?\n\nHINT/COMMENT: As in (a), \
-proceed in an organized fashion.\n\n(c) The solution in (a) involved two \
-constants, which we called ",
+ ".\n\nHINT/COMMENT: As in (a), proceed in an organized fashion.\n\n(c) The \
+solution in (a) involved two constants, which we called ",
  Cell[BoxData[
-  FormBox["C", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["C", TraditionalForm]],ExpressionUUID->
   "1b0609bc-eea7-43d0-bb15-c5eec53aaff9"],
  " and ",
  Cell[BoxData[
-  FormBox["D", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["D", TraditionalForm]],ExpressionUUID->
   "7409ce3a-1667-4be7-bc0b-92037b335dbe"],
  ". The solution in (b) also involved two constants, ",
  Cell[BoxData[
-  FormBox["A", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["A", TraditionalForm]],ExpressionUUID->
   "3598df0d-07e8-4db5-85cf-6e50b157bb97"],
- " and \[Theta]. In class I used the formula for ",
+ " and \[Theta]. In class, I used the formula for ",
  Cell[BoxData[
   FormBox[
    RowBox[{"cos", "(", 
     RowBox[{"\[Alpha]", "+", "\[Beta]"}], ")"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "6799bd6d-1082-45db-878f-f4a3c042c5e6"],
+  ExpressionUUID->"6799bd6d-1082-45db-878f-f4a3c042c5e6"],
  " to get expressions for ",
  Cell[BoxData[
-  FormBox["C", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["C", TraditionalForm]],ExpressionUUID->
   "1be355fd-8d3f-49ea-a3ae-a48623b7123b"],
  " and ",
  Cell[BoxData[
-  FormBox["D", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["D", TraditionalForm]],ExpressionUUID->
   "d3bff15d-3590-4386-b926-4b2251cc97c1"],
  " in terms of ",
  Cell[BoxData[
-  FormBox["A", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["A", TraditionalForm]],ExpressionUUID->
   "6921d2dc-17a8-4433-98ee-349b655aea0e"],
  " and \[Theta]. Repeat that derivation.\n\n(d) If \[Theta] is \[Pi] and ",
  Cell[BoxData[
-  FormBox["A", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["A", TraditionalForm]],ExpressionUUID->
   "d64ff4cc-af14-4cbb-8cef-47b71e35eb61"],
- " is 1 meter, and \[Omega] is 0.5 seconds, what are ",
+ " is 1 meter, and \[Omega] is 0.5 radians / second, what are ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"x", "(", "0"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"x", "(", "0"}], TraditionalForm]],ExpressionUUID->
   "3e6d9264-557d-4e8f-8bab-299b4c36a6de"],
  "), ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"v", "(", "0", ")"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"v", "(", "0", ")"}], TraditionalForm]],ExpressionUUID->
   "6bca624a-343d-4e97-86ec-100536d061d1"],
  ", and ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"a", "(", "0", ")"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"a", "(", "0", ")"}], TraditionalForm]],ExpressionUUID->
   "24299ba4-7398-44e6-b393-e1db05d1427f"],
  "?\n"
 }], "Text",
- CellChangeTimes->{{3.974291554361889*^9, 
-  3.974292247203808*^9}},ExpressionUUID->"710469d3-7d23-4640-a98f-\
+ CellChangeTimes->{{3.974291554361889*^9, 3.974292247203808*^9}, {
+  3.9743091423254337`*^9, 
+  3.974309209261853*^9}},ExpressionUUID->"710469d3-7d23-4640-a98f-\
 5e43c9bca256"],
 
 Cell["", "PageBreak",
@@ -930,7 +911,7 @@ AAAAAAAAAAAAAAAN9x8eRftJ
    BoxForm`ImageTag["Byte", ColorSpace -> "RGB", Interleaving -> True],
    Selectable->False],
   DefaultBaseStyle->"ImageGraphics",
-  ImageSize->{280.9050000000001, Automatic},
+  ImageSize->{338.045625, Automatic},
   ImageSizeRaw->{1161., 647.},
   PlotRange->{{0, 1161.}, {0, 647.}}]], "Input",ExpressionUUID->"32974fc9-\
 286e-4063-b3b4-d830c5fa57ef"],
@@ -938,24 +919,43 @@ AAAAAAAAAAAAAAAN9x8eRftJ
 Cell[TextData[{
  "It is not our job in this course to solve the most general problem of ",
  Cell[BoxData[
-  FormBox["N", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["N", TraditionalForm]],ExpressionUUID->
   "0d1c6b8b-e291-4015-8b0d-2102e1d54af8"],
  " equal-mass objects coupled by ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"N", "+", "1"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"N", "+", "1"}], TraditionalForm]],ExpressionUUID->
   "d1c50192-4fea-4a5c-a679-a558d36dbe20"],
  " equal-spring-constant springs, although it is fun and it leads you to \
 start visualizing compression waves.\n\nLet\[CloseCurlyQuote]s nonetheless \
 make a little progress on the problem of 3 masses coupled with a total of 4 \
 springs, so we start to see how it is going to go.\n\n(a) Write down Newton\
 \[CloseCurlyQuote]s Second Law for each of the three masses in the diagram \
-above (shown at equilibrium with the springs neither stretched nor \
-compressed). I\[CloseCurlyQuote]ll write down Newton\[CloseCurlyQuote]s \
-Second Law first one to get you started, so you only have to write down the \
-expressions for masses 2 and 3:\n\n",
+above (shown at equilibrium with the springs neither stretched nor compressed \
+so ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    SubscriptBox["x", "1"], "=", "0"}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "1954e62b-0c91-4018-9961-69ad2672bda2"],
+ ", ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    SubscriptBox["x", "2"], "=", "0"}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "9d052a28-ada3-4256-b5f4-51d01fea0cc9"],
+ ", and ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    SubscriptBox["x", "3"], "=", "0"}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "4830efda-bcc3-428a-b737-be6e2e2b1076"],
+ " are labeled that way in the picture). I\[CloseCurlyQuote]ll write down \
+Newton\[CloseCurlyQuote]s Second Law for the first mass to get you started, \
+and you only have to write down the expressions for masses 2 and 3:\n\n",
  Cell[BoxData[
   FormBox[
    RowBox[{
@@ -972,19 +972,18 @@ expressions for masses 2 and 3:\n\n",
        RowBox[{
         SubscriptBox["x", "2"], "-", 
         SubscriptBox["x", "1"]}], ")"}]}]}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "9bc7d773-f96d-43d3-b572-65e97014b7ab"],
+  ExpressionUUID->"9bc7d773-f96d-43d3-b572-65e97014b7ab"],
  "\n\nUnderstand and double-check the signs!\n\n(b) It is pretty clear that \
-there is a solution mass 2 stays at rest, and mass 3 does the opposite of \
-what mass 1 is doing. Can visualize that solution in your mind before \
-proceeding with the algebra? Now proceed with the algebra by putting in ",
+there is a solution where mass 2 stays at rest, and mass 3 does whatever the \
+opposite of what mass 1 is doing. Can you visualize that solution in your \
+mind before proceeding with the algebra? Now proceed with the algebra by \
+putting in ",
  Cell[BoxData[
   FormBox[
    RowBox[{
     RowBox[{
      SubscriptBox["x", "2"], "(", "t", ")"}], "=", "0"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "800a201d-2634-4c75-8da1-5f378b1d4716"],
+  ExpressionUUID->"800a201d-2634-4c75-8da1-5f378b1d4716"],
  " and ",
  Cell[BoxData[
   FormBox[
@@ -994,8 +993,7 @@ proceeding with the algebra? Now proceed with the algebra by putting in ",
     RowBox[{"-", 
      RowBox[{
       SubscriptBox["x", "1"], "(", "t", ")"}]}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "7b9b178a-a045-496a-81cc-d2891dc538df"],
+  ExpressionUUID->"7b9b178a-a045-496a-81cc-d2891dc538df"],
  " into the equations you found in (a). The three equations are going to \
 simplify a lot.\n\n(c) Now that you have the three equations simplified try \
 ",
@@ -1008,26 +1006,24 @@ simplify a lot.\n\n(c) Now that you have the three equations simplified try \
      RowBox[{"cos", "(", 
       RowBox[{
        RowBox[{"\[Omega]", "\[VeryThinSpace]", "t"}], "+", "\[Theta]"}], 
-      ")"}]}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+      ")"}]}]}], TraditionalForm]],ExpressionUUID->
   "e080a8f4-bca1-40a4-971e-305601efc7f1"],
  ". What must \[Omega] be in terms of ",
  Cell[BoxData[
-  FormBox["k", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["k", TraditionalForm]],ExpressionUUID->
   "ab5ec738-8e54-4a7a-8729-220e94206af6"],
  " and ",
  Cell[BoxData[
-  FormBox["m", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["m", TraditionalForm]],ExpressionUUID->
   "9350e644-2bd4-4479-bb98-564e505d009b"],
  " for this to work. HINT: It ain\[CloseCurlyQuote]t what you got for \
 \[Omega] in 4(b)!"
 }], "Text",
  CellChangeTimes->{{3.974291554361889*^9, 3.974292247203808*^9}, {
   3.9742924681041*^9, 3.974292974444809*^9}, {3.9742933770770693`*^9, 
-  3.974293603762084*^9}, {3.974293659289525*^9, 
-  3.974293660426147*^9}},ExpressionUUID->"5f19c402-7517-47b1-bd47-\
+  3.974293603762084*^9}, {3.974293659289525*^9, 3.974293660426147*^9}, {
+  3.974309267959403*^9, 
+  3.9743093350741453`*^9}},ExpressionUUID->"5f19c402-7517-47b1-bd47-\
 e00843012329"],
 
 Cell["", "PageBreak",
@@ -1061,27 +1057,23 @@ I will give you something extra to tack on: For ",
  Cell[BoxData[
   FormBox[
    RowBox[{"\[Theta]", "=", 
-    RowBox[{"45", "\[Degree]"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+    RowBox[{"45", "\[Degree]"}]}], TraditionalForm]],ExpressionUUID->
   "53a2f65b-3b9c-4406-b68c-07ca45903eb3"],
  ", sketch ",
  Cell[BoxData[
-  FormBox["KE", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["KE", TraditionalForm]],ExpressionUUID->
   "b17c8300-49d0-47f3-96bd-901b14ff8011"],
- " and sketch PE from ",
+ " and sketch PE on the same graph from ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"t", "=", "0"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"t", "=", "0"}], TraditionalForm]],ExpressionUUID->
   "b60179be-56b1-4e28-8fb6-e6577c844d93"],
  " to ",
  Cell[BoxData[
   FormBox[
    RowBox[{"t", "=", 
     FractionBox[
-     RowBox[{"4", "\[Pi]"}], "\[Omega]"]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+     RowBox[{"4", "\[Pi]"}], "\[Omega]"]}], TraditionalForm]],ExpressionUUID->
   "a52d25a4-c5aa-4b21-9b4a-2e9f52a43df3"],
  " (that\[CloseCurlyQuote]s two periods of oscillation). Do they look like \
 they add up to a constant?",
@@ -1096,8 +1088,7 @@ in all generality, not just the special case of ",
    RowBox[{
     RowBox[{
      SubscriptBox["x", "2"], "(", "t", ")"}], "=", "0"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "53a1de3a-45c9-4db9-93c1-ddc66f69d6ce"],
+  ExpressionUUID->"53a1de3a-45c9-4db9-93c1-ddc66f69d6ce"],
  StyleBox[" and ",
   FontSize->16],
  Cell[BoxData[
@@ -1108,9 +1099,14 @@ in all generality, not just the special case of ",
     RowBox[{"-", 
      RowBox[{
       SubscriptBox["x", "1"], "(", "t", ")"}]}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "15799153-828f-44aa-b54f-c6bdf0b47b2f"],
- StyleBox[".",
+  ExpressionUUID->"15799153-828f-44aa-b54f-c6bdf0b47b2f"],
+ StyleBox[". The people that put up the picture that I lifted off of the web \
+for Problem 5 wrote a nice application, but given that it is an aging Java \
+application, we may not be able to get it to run, and in any case, I have \
+previously written such applications in Mathematica.  Other info is on their \
+webpage and will remain useful, and in any case, I ought to acknowledge the \
+source of the figure: \
+http://www.physics.smu.edu/fattarus/coupled_oscillator.html",
   FontSize->16]
 }], "Text",
  CellChangeTimes->{{3.907428653622988*^9, 3.907428656727818*^9}, {
@@ -1140,7 +1136,9 @@ in all generality, not just the special case of ",
    3.915036036560771*^9}, {3.9150376164360533`*^9, 3.915037616929309*^9}, {
    3.91503764798298*^9, 3.9150376494797287`*^9}, 3.974290547955312*^9, {
    3.974290581371722*^9, 3.974290611368984*^9}, {3.974292987585866*^9, 
-   3.9742932669713593`*^9}},ExpressionUUID->"4f1640a5-ee3d-4e22-b74f-\
+   3.9742932669713593`*^9}, {3.9743089565396147`*^9, 3.974309031438751*^9}, {
+   3.974309374150278*^9, 3.974309376145711*^9}, {3.974309415040422*^9, 
+   3.9743094889804077`*^9}},ExpressionUUID->"4f1640a5-ee3d-4e22-b74f-\
 dace00734250"]
 }, Open  ]]
 }, Open  ]]
@@ -1166,33 +1164,33 @@ CellTagsIndex->{}
 Notebook[{
 Cell[CellGroupData[{
 Cell[580, 22, 1336, 20, 78, "Chapter",ExpressionUUID->"0a9f033e-46a1-4578-becc-919930044f24"],
-Cell[1919, 44, 417, 8, 55, "Subtitle",ExpressionUUID->"64af6912-0caa-4912-8627-e4151cd7b96f"],
+Cell[1919, 44, 472, 9, 55, "Subtitle",ExpressionUUID->"64af6912-0caa-4912-8627-e4151cd7b96f"],
 Cell[CellGroupData[{
-Cell[2361, 56, 1405, 23, 82, "Section",ExpressionUUID->"a78bf5b2-83ee-4246-8cdf-6ea368b1fb2b"],
-Cell[3769, 81, 1473, 27, 233, "Text",ExpressionUUID->"10327151-b088-468c-bfc1-712db4746501"]
+Cell[2416, 57, 1405, 23, 82, "Section",ExpressionUUID->"a78bf5b2-83ee-4246-8cdf-6ea368b1fb2b"],
+Cell[3824, 82, 1464, 27, 233, "Text",ExpressionUUID->"10327151-b088-468c-bfc1-712db4746501"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[5279, 113, 1347, 19, 82, "Section",ExpressionUUID->"39b67822-fab3-4af4-9957-995e6360c459"],
-Cell[6629, 134, 3209, 54, 456, "Text",ExpressionUUID->"3b6a5969-ad38-4c54-8c4f-74267108b137"],
-Cell[9841, 190, 99, 1, 4, "PageBreak",ExpressionUUID->"782700a4-e409-4846-8100-cfc88aa25382",
+Cell[5325, 114, 1414, 19, 82, "Section",ExpressionUUID->"39b67822-fab3-4af4-9957-995e6360c459"],
+Cell[6742, 135, 3209, 54, 456, "Text",ExpressionUUID->"3b6a5969-ad38-4c54-8c4f-74267108b137"],
+Cell[9954, 191, 99, 1, 4, "PageBreak",ExpressionUUID->"782700a4-e409-4846-8100-cfc88aa25382",
  PageBreakBelow->True]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[9977, 196, 1453, 21, 129, "Section",ExpressionUUID->"4142e764-79a2-417c-a5a9-3b56be958461"],
-Cell[11433, 219, 5688, 165, 608, "Text",ExpressionUUID->"710469d3-7d23-4640-a98f-5e43c9bca256"],
-Cell[17124, 386, 99, 1, 1, "PageBreak",ExpressionUUID->"29543f37-25be-4c82-bae7-4136bab86217",
+Cell[10090, 197, 1453, 21, 129, "Section",ExpressionUUID->"4142e764-79a2-417c-a5a9-3b56be958461"],
+Cell[11546, 220, 5092, 145, 635, "Text",ExpressionUUID->"710469d3-7d23-4640-a98f-5e43c9bca256"],
+Cell[16641, 367, 99, 1, 4, "PageBreak",ExpressionUUID->"29543f37-25be-4c82-bae7-4136bab86217",
  PageBreakBelow->True]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[17260, 392, 1500, 22, 129, "Section",ExpressionUUID->"826e9f12-7380-4f74-9c54-0160dc1da008"],
-Cell[18763, 416, 31404, 519, 211, "Input",ExpressionUUID->"32974fc9-286e-4063-b3b4-d830c5fa57ef"],
-Cell[50170, 937, 3683, 93, 667, "Text",ExpressionUUID->"5f19c402-7517-47b1-bd47-e00843012329"],
-Cell[53856, 1032, 99, 1, 1, "PageBreak",ExpressionUUID->"50d5b25a-6a17-4b78-9a4c-0aaa482776e3",
+Cell[16777, 373, 1500, 22, 129, "Section",ExpressionUUID->"826e9f12-7380-4f74-9c54-0160dc1da008"],
+Cell[18280, 397, 31397, 519, 251, "Input",ExpressionUUID->"32974fc9-286e-4063-b3b4-d830c5fa57ef"],
+Cell[49680, 918, 4141, 108, 694, "Text",ExpressionUUID->"5f19c402-7517-47b1-bd47-e00843012329"],
+Cell[53824, 1028, 99, 1, 4, "PageBreak",ExpressionUUID->"50d5b25a-6a17-4b78-9a4c-0aaa482776e3",
  PageBreakBelow->True]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[53992, 1038, 802, 12, 82, "Section",ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
-Cell[54797, 1052, 4379, 91, 450, "Text",ExpressionUUID->"4f1640a5-ee3d-4e22-b74f-dace00734250"]
+Cell[53960, 1034, 802, 12, 82, "Section",ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
+Cell[54765, 1048, 4821, 93, 651, "Text",ExpressionUUID->"4f1640a5-ee3d-4e22-b74f-dace00734250"]
 }, Open  ]]
 }, Open  ]]
 }

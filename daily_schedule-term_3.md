@@ -63,10 +63,10 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
   
 <img src="./resources/EvelKnieval.png" width="40%"/>
 
-* Thursday, Dec. 11 &mdash; Study Chapter N10 &mdash; Problem Set 21 for Thursday: 1. N10B.4 (the MKS units for the spring constant are Newtons/meter or Joules/meter<sup>2</sup>, but in atomic physics a better unit of energy is the eV and a better unit of distance is the Angstrom, so convert your answer to eV/Angstrom<sup>2</sup>); 2. N10M.7 (let's assume the person on the pogo stick is a kid weighing 40kg); 3. N10A.1 (another advanced problem and this one gives you an idea of how oscillators show up as approximations to atomic potentials that do not look at all like oscillators until you make the approximations); 4. Relating the two most common expressions for oscillatory motion (see [handout](./resources/PlanFor2025-12-11.nb.pdf)); 5. A more sophisticated coupled objects oscillation problem (also on [handout](./resources/PlanFor2025-12-11.nb.pdf))
-* Presentations for Thursday: Also see [handout](./resources/PlanFor2025-12-11.nb.pdf)
+* Thursday, Dec. 11 &mdash; Study Chapter N10 &mdash; Problem Set 21 for Thursday: 1. N10B.4 (the MKS units for the spring constant are Newtons/meter or Joules/meter<sup>2</sup>, but in atomic physics a better unit of energy is the eV and a better unit of distance is the Angstrom, so convert your answer to eV/Angstrom<sup>2</sup>); 2. N10M.7 (let's assume the person on the pogo stick is a kid weighing 40kg); 3. N10A.1 (another advanced problem and this one gives you an idea of how oscillators show up as approximations to atomic potentials that do not look at all like oscillators until you make the approximations); 4. Relating the two most common expressions for oscillatory motion (see [handout](./resources/ThePlanFor2025-12-11.nb.pdf)); 5. A more sophisticated coupled objects oscillation problem (also on [handout](./resources/ThePlanFor2025-12-11.nb.pdf))
+* Presentations for Thursday: Also see [handout](./resources/ThePlanFor2025-12-11.nb.pdf)
 
-<img src="./resources/ThreeMassesAndFourSprings.png" width="40%"/>
+<img src="./resources/ThreeMassesAndFourSprings.png" width="50%"/>
 
 ### Week 15 &mdash; Exam 3 &mdash; Kepler's Laws
 
