@@ -57,8 +57,8 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
   * Grace: Derive Equation N9.16 from N9.15 (that's a one-liner). Then change N9.15 to just be *F<sub>D</sub>=-C&rho;v* and get a new equation for the terminal velocity kind of like N9.16. The changed version of N9.15 is a familiar equation (you encountered it back in Problem N5D.3). What is its solution?
   * Sasha: Explain Equations N9.18, N9.19, and the curves in Figure N9.4.
   * Brian: I will show how to use Mathematica to get a Figure like N9.4.
-  * Sam: Apply the Newton app (which Sam found [here](https://physics.pomona.edu/sixideas/Newton/)) to N9M.12(a)?
-  <img src="./resources/EvelKnieval.png" width="40%"/>
+  * Sam: Apply the Newton app (which Sam found [here](https://physics.pomona.edu/sixideas/Newton/)) to N9M.12(a).
+<img src="./resources/EvelKnieval.png" width="40%"/>
 * Thursday, Dec. 11 &mdash; Study Chapter N10
 * Problem Set 21 for Dec. 11 (I AM NOT DONE WITH THIS, BUT YOU CAN GET STARTED ON PROBLEMS 1-3)
   * Problem 1. N10B.4 (the MKS units for the spring constant are Newtons/meter or Joules/meter<sup>2</sup>, but in atomic physics a better unit of energy is the eV and a better unit of distance is the Angstrom, so convert your answer to eV/Angstrom<sup>2</sup>)
