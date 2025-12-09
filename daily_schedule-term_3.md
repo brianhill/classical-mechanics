@@ -63,7 +63,7 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 * Problem Set 21 for Dec. 11 (I AM NOT DONE WITH THIS, BUT YOU CAN GET STARTED ON PROBLEMS 1-3)
   * Problem 1. N10B.4 (the MKS units for the spring constant are Newtons/meter or Joules/meter<sup>2</sup>, but in atomic physics a better unit of energy is the eV and a better unit of distance is the Angstrom, so convert your answer to eV/Angstrom<sup>2</sup>)
   * Problem 2. N10M.7 (let's assume the person on the pogo stick is a kid weighing 40kg)
-  * Problem 3. N10A.1 (another advanced problem and this one gives you an )
+  * Problem 3. N10A.1 (another advanced problem and this one gives you an idea of how oscillators show up as approximations to atomic potentials that do not look at all like oscillators until you make the approximations)
   * Problem 4. I need to write a problem that underlines and relates the two most common expressions for oscillatory motion, one of which involves the sine and the cosine, and one of which involves just a cosine, but with an offset angle.
   * Problem 5. I also need to write a problem that unites the ideas of Chapter N5 and N9 into an interesting coupled objects oscillation problem. We have already done two masses coupled to each other and the walls by a total of three springs. The obvious thing to try next is to three objects coupled to each other and the walls by a total of four springs.
 * Presentations for Thursday:
