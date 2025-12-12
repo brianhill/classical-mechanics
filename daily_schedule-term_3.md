@@ -58,13 +58,13 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 * Presentations for Monday:
   * Grace: Derive Equation N9.16 from N9.15 (that's a one-liner). Then change N9.15 to just be *F<sub>D</sub>=-C&rho;v* and get a new equation for the terminal velocity kind of like N9.16. The changed version of N9.15 is a familiar equation (you encountered it back in Problem N5D.3). What is its solution?
   * Sasha: Explain Equations N9.18, N9.19, and the curves in Figure N9.4.
-  * Brian: I will show how to use Mathematica to get a Figure like N9.4.
+  * Brian: I will show how to use Mathematica to get a Figure like N9.4
   * Sam: Apply the Newton app (which Sam found [here](https://physics.pomona.edu/sixideas/Newton/)) to N9M.12(a).
   
 <img src="./resources/EvelKnieval.png" width="40%"/>
 
 * Thursday, Dec. 11 &mdash; Study Chapter N10 &mdash; Problem Set 21 for Thursday: 1. N10B.4 (the MKS units for the spring constant are Newtons/meter or Joules/meter<sup>2</sup>, but in atomic physics a better unit of energy is the eV and a better unit of distance is the Angstrom, so convert your answer to eV/Angstrom<sup>2</sup>); 2. N10M.7 (let's assume the person on the pogo stick is a kid weighing 40kg); 3. N10A.1 (another advanced problem and this one gives you an idea of how oscillators show up as approximations to atomic potentials that do not look at all like oscillators until you make the approximations); 4. Relating the two most common expressions for oscillatory motion (see [handout](./resources/ThePlanFor2025-12-11.nb.pdf)); 5. A more sophisticated coupled objects oscillation problem (also on [handout](./resources/ThePlanFor2025-12-11.nb.pdf))
-* Presentations for Thursday: Also see [handout](./resources/ThePlanFor2025-12-11.nb.pdf)
+* Presentations for Thursday: Also see [handout](./resources/ThePlanFor2025-12-11.nb.pdf) &mdash; Unfortunately, we ran out of class time before I got to my presentation of the modes of [Three Coupled Harmonic Oscillators](./resources/ThreeCoupledHarmonicOscillators.nb.pdf)
 
 <img src="./resources/ThreeMassesAndFourSprings.png" width="50%"/>
 
