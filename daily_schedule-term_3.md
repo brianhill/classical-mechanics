@@ -60,18 +60,16 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
   * Sasha: Explain Equations N9.18, N9.19, and the curves in Figure N9.4.
   * Brian: I will show how to use Mathematica to get a Figure like N9.4
   * Sam: Apply the Newton app (which Sam found [here](https://physics.pomona.edu/sixideas/Newton/)) to N9M.12(a).
-  
-<img src="./resources/EvelKnieval.png" width="40%"/>
+  <img src="./resources/EvelKnieval.png" width="45%"/>
 
 * Thursday, Dec. 11 &mdash; Study Chapter N10 &mdash; Problem Set 21 for Thursday: 1. N10B.4 (the MKS units for the spring constant are Newtons/meter or Joules/meter<sup>2</sup>, but in atomic physics a better unit of energy is the eV and a better unit of distance is the Angstrom, so convert your answer to eV/Angstrom<sup>2</sup>); 2. N10M.7 (let's assume the person on the pogo stick is a kid weighing 40kg); 3. N10A.1 (another advanced problem and this one gives you an idea of how oscillators show up as approximations to atomic potentials that do not look at all like oscillators until you make the approximations); 4. Relating the two most common expressions for oscillatory motion (see [handout](./resources/ThePlanFor2025-12-11.nb.pdf)); 5. A more sophisticated coupled objects oscillation problem (also on [handout](./resources/ThePlanFor2025-12-11.nb.pdf))
 * Presentations for Thursday: Also see [handout](./resources/ThePlanFor2025-12-11.nb.pdf) &mdash; Unfortunately, we ran out of class time before I got to my presentation of the modes of [Three Coupled Harmonic Oscillators](./resources/ThreeCoupledHarmonicOscillators.nb.pdf)
-
 <img src="./resources/ThreeMassesAndFourSprings.png" width="50%"/>
 
 ### Week 15 &mdash; Exam 3 &mdash; Kepler's Laws
 
 * Monday, Dec. 15 &mdash; [Exam 3](./exams/Exam3.nb.pdf), covering Moore Chapters N4 to N10 (including N8, but none of the fictitious force stuff in Sections N8.6 and N8.7)
-* For Thursday, just prepare by doing the Kepler reading that Aaron found and that I distributed for a wonderful change of pace
+* For Thursday, just prepare by doing the Kepler reading that Aaron found and that I distributed for a wonderful change of pace &mdash; The goal of the last class is to see how Kepler's Laws can be explained by Newton's Laws, which is one of Newton's definitive triumphs &mdash; Others in Newton's day had conjectures and incomplete arguments about a 1/*r*<sup>2</sup> gravitational force law &mdash; What distinguished Newton is that he pushed his &ldquo;Law of Universal Gravitation&rdquo; through to an unambiguous conclusion that explained Brahe's, Kepler's and Galileo's work in a unifying sweep that set the gold standard for physics and all fields of science ever since
 * The details below regard modern material that I will be drawing on:
   * Chapter N11 on Kepler's Laws &mdash; N11 is the last chapter of Unit N that Moore has marked as &ldquo;Core&rdquo; &mdash; We could also peek at N12 which is marked as &ldquo;Optional&rdquo; because it requires more calculus facility than people usually have at hand during their first semester of physics
-  * We could perhaps also refer to [&ldquo;Feynman's Lost Lecture&rdquo;](https://dn710004.ca.archive.org/0/items/richard-feynman-pdf-library/Feynman%2C%20Richard%20%2837%20books%29/Feynman%27s%20Lost%20Lecture%20%5Bed.%20Goodstein%5D/Goodstein%2C%20D.%20%28ed.%29%20-%20Feynman%27s%20Lost%20Lecture%20%28Vintage%2C%201997%29.pdf) &mdash; The goal is to see how Kepler's Laws can be explained by Newton's Laws, which is one of Newton's definitive triumphs &mdash; Others in Newton's day had conjectures and incomplete arguments about a 1/*r*<sup>2</sup> gravitational force law &mdash; What distinguished Newton is that he pushed his &ldquo;Law of Universal Gravitation&rdquo; through to an unambiguous conclusion that explained Brahe's, Kepler's and Galileo's work in a unifying sweep that has set the gold standard for all fields of science ever since
+  * We could perhaps also refer to [&ldquo;Feynman's Lost Lecture&rdquo;](https://dn710004.ca.archive.org/0/items/richard-feynman-pdf-library/Feynman%2C%20Richard%20%2837%20books%29/Feynman%27s%20Lost%20Lecture%20%5Bed.%20Goodstein%5D/Goodstein%2C%20D.%20%28ed.%29%20-%20Feynman%27s%20Lost%20Lecture%20%28Vintage%2C%201997%29.pdf)
