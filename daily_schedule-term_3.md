@@ -34,7 +34,7 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
   <img src="./resources/BlockAndTackle.png" width="60%"/>
   * Sam: If the worker pulls the rope in by 1m meter, how much does the worker's chair rise in Problem N6M.10? How much does the worker rise in Grace's version of the problem (which has a block-and-tackle)? Make a work and potential energy argument that shows that the work done is in agreement with the potential energy increase?
   * Sasha: There are two types of solutions to the situation pictured below, and they are called &ldquo;normal modes.&rdquo; In the easier of the two modes to analyze, the two objects move *together.* Begin by drawing free-body diagrams for each cart. The gravity and normal forces hardly matter (because they must balance), but include them for completeness. The important forces are the forces exerted by the three springs on the two carts. Each cart has two springs acting on it. If the two springs move together (that is, if *x*<sub>1</sub>=*x*<sub>2</sub>), what is the whopping simplification in the equations?  
-  <img src="./resources/TwoCartsThreeSprings.png" width="90%"/>
+  <img src="./resources/TwoCartsThreeSprings.png" width="60%"/>
   * Brian: Do the other normal mode for Sasha's Problem.
 
 ### Week 13 &mdash; Non-Uniform Circular Motion &mdash; Non-Inertial Frames and Fictitious Forces
@@ -61,12 +61,12 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
   * Brian: I will show how to use Mathematica to get a Figure like N9.4
   * Sam: Apply the Newton app (which Sam found [here](https://physics.pomona.edu/sixideas/Newton/)) to N9M.12(a).
   
-  <img src="./resources/EvelKnieval.png" width="45%"/>
+  <img src="./resources/EvelKnieval.png" width="78%"/>
 
 * Thursday, Dec. 11 &mdash; Study Chapter N10 &mdash; Problem Set 21 for Thursday: 1. N10B.4 (the MKS units for the spring constant are Newtons/meter or Joules/meter<sup>2</sup>, but in atomic physics a better unit of energy is the eV and a better unit of distance is the Angstrom, so convert your answer to eV/Angstrom<sup>2</sup>); 2. N10M.7 (let's assume the person on the pogo stick is a kid weighing 40kg); 3. N10A.1 (another advanced problem and this one gives you an idea of how oscillators show up as approximations to atomic potentials that do not look at all like oscillators until you make the approximations); 4. Relating the two most common expressions for oscillatory motion (see [handout](./resources/ThePlanFor2025-12-11.nb.pdf)); 5. A more sophisticated coupled objects oscillation problem (also on [handout](./resources/ThePlanFor2025-12-11.nb.pdf))
-* Presentations for Thursday: Also see [handout](./resources/ThePlanFor2025-12-11.nb.pdf) &mdash; Unfortunately, we ran out of class time before I got to my presentation of the modes of [Three Coupled Harmonic Oscillators](./resources/ThreeCoupledHarmonicOscillators.nb.pdf)
+* Presentations for Thursday: Also see [handout](./resources/ThePlanFor2025-12-11.nb.pdf) &mdash; Modes of [Three Coupled Harmonic Oscillators](./resources/ThreeCoupledHarmonicOscillators.nb.pdf)
 
-<img src="./resources/ThreeMassesAndFourSprings.png" width="50%"/>
+<img src="./resources/ThreeMassesAndFourSprings.png" width="45%"/>
 
 ### Week 15 &mdash; Exam 3 &mdash; Kepler's Laws
 
@@ -74,4 +74,5 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 * For Thursday, just prepare by doing the Kepler reading that Aaron found and that I distributed for a wonderful change of pace &mdash; The goal of the last class is to see how Kepler's Laws can be explained by Newton's Laws, which is one of Newton's definitive triumphs &mdash; Others in Newton's day had conjectures and incomplete arguments about a 1/*r*<sup>2</sup> gravitational force law &mdash; What distinguished Newton is that he pushed his &ldquo;Law of Universal Gravitation&rdquo; through to an unambiguous conclusion that explained Brahe's, Kepler's and Galileo's work in a unifying sweep that set the gold standard for physics and all fields of science ever since
   * This video of [Ptolemy's Model of the Universe](https://youtu.be/EpSy0Lkm3zM) give you an idea of how an Earth-centered solar system would have to work
   * We will also watch some of the first of Feynman's 1964 [&ldquo;Character of Physical Law&rdquo;](https://www.youtube.com/watch?v=kEx-gRfuhhk&t=510) lectures in which he introduces Kepler's three laws &mdash; We will watch a full five minutes so we can hear how Feynman introduces some of the ideas of Galileo and Newton too
-  * The material we are discussing in our last class is covered in Moore's Chapter N11 &mdash; N11 is the last chapter of Unit N that Moore has marked as &ldquo;Core&rdquo;
+  * The material we are discussing in our last class is covered in Moore's Chapter N11 which is the last chapter of Unit N that Moore has marked as &ldquo;Core&rdquo; &mdash; You don't need to have studied that chapter prior to class
+  * Some materials we will use in class: [Mars Retrograde Construction](./resources/MarsRetrogradeConstruction-2021-04-02.pdf); [Wikipedia page on eccentricity](./resources/Eccentricity.png); [Equal Areas Diagram](./resources/EqualAreasDiagram.png) &mdash; [T<sup>2</sup> / a<sup>3</sup> Table](./resources/TSquaredACubedTable.png)
