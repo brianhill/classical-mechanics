@@ -1,12 +1,12 @@
 # Conservation Laws and Newtonian Mechanics
 
-*Short Course Title: Physics I for Scientists and Engineers*
+*Short Course Title: Physics I for Life Sciences*
 
 *Fall 2025, Deep Springs College, [Prof. Brian Hill](https://brianhill.github.io)*
 
 ## Overview
 
-Our essential goal in one semester will be to understand Newtonian physics, but with a modern perspective. The course will use calculus (mostly derivative calculus but also some integral calculus for mass distributions), but I will provide reminders for the calculus results as we use them, so don't be disuaded if your calculus is rusty.
+Our essential goal in one semester will be to understand Newtonian physics, but with a modern perspective. The course will make moderate use of calculus (mostly derivative calculus but also some integral calculus), and I will provide reminders for the calculus results as we use them. Do not be disuaded if your calculus is rusty.
 
 For Part I of this course to be a transferrable and thorough preparation for what might be your second semester of college-level introductory physics elsewhere, we cannot completely depart from what is standard. On the other hand, we certainly don’t have to mimic any particular methodology for covering the standard material, and we will be taking a modern approach.
 
