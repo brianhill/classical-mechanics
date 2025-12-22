@@ -12,7 +12,7 @@ A [PDF of the Preliminary Syllabus](./ClassicalMechanicsPreliminarySyllabus.pdf)
 
 Our essential goal in one semester will be to understand Newtonian physics, but with a modern perspective. The course will use calculus (mostly derivative calculus but also some integral calculus for mass distributions), but I will provide reminders for the calculus results as we use them, so don't be disuaded if your calculus is rusty.
 
-For Part I of this course to be a transferrable, and to be a thorough preparation for what might be your second semester of college-level introductory physics elsewhere, we cannot completely depart from what is standard. On the other hand, we certainly don’t have to mimic any particular methodology for covering the standard material, and we will be taking a modern approach.
+For Part I of this course to be a transferrable and thorough preparation for what might be your second semester of college-level introductory physics elsewhere, we cannot completely depart from what is standard. On the other hand, we certainly don’t have to mimic any particular methodology for covering the standard material, and we will be taking a modern approach.
 
 We will begin the semester with a study of the major conservation laws. These can be viewed as a consequence of Newtonian mechanics, but as physics progressed into the 20th century, and relativity and quantum mechanics theories were developed, the conservation laws survived fully intact even as the limits of Newtonian mechanics were discovered. It therefore makes sense to begin with the conservation laws and then in the second half of the semester, we will see Newtonian mechanics as the first example of a theory that obeys the conservation laws.
 
@@ -28,8 +28,6 @@ Detailed daily schedules will be kept retrospectively:
 There is an endless supply of textbooks with roots going so far back (e.g., Sears, *Principles of Physics,* 1944) that it is hard to think of even their most recent incarnations as modern. The traditional sequence is thoroughly-tested and internationally-recognized, but we will be going a slightly different direction. To have the modern approach that I advertised above and in the course proposal, we will use two volumes from a new and ambitious textbook series created by Thomas Moore at Pomona College:
 
 * [*Six Ideas that Shaped Physics*, 4th Edition, Volumes C and N](http://www.physics.pomona.edu/sixideas/) for Terms 2 and 3, respectively
-
-By the end of the fall semester, we will have covered the same material as is usually covered in the first semester of a many-semester physics sequence, but with a different organization and emphasis.
 
 ## Grading and Homework
 
